@@ -168,4 +168,4 @@ class Fee(Pokemon):
 
 
 pokemons = []
-iniciais = []
+starter = []
