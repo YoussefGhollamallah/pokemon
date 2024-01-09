@@ -124,14 +124,14 @@ class Roche(Pokemon):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
                 self.avantage=['Feu', 'Gel', 'Vol']
                 self.desavantage=['Combattant', 'Terrestre', 'Acier']
-                self.egal=['Normal', 'Eau', 'Plante', 'Electrique', 'Venimeu', 'Psy', 'Inseto', 'Roche', 'Fantasma', 'Tenebres', 'Dragon', 'Fee']
+                self.egal=['Normal', 'Eau', 'Plante', 'Electrique', 'Venimeu', 'Psy', 'Insecte', 'Roche', 'Fantasma', 'Tenebres', 'Dragon', 'Fee']
 
 class Fantasma(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type, hp,attaque, defense, vitesse)
                 self.avantage=['Psy']
                 self.desavantage=['Normal', 'Tenebres']
-                self.egal=['Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Combattant', 'Venimeu', 'Terrestre', 'Vol', 'Inseto', 'Roche', 'Fantasma', 'Dragon', 'Acier', 'Fee']
+                self.egal=['Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Combattant', 'Venimeu', 'Terrestre', 'Vol', 'Insecte', 'Roche', 'Fantasma', 'Dragon', 'Acier', 'Fee']
 
 
 class Tenebres(Pokemon):
@@ -139,7 +139,7 @@ class Tenebres(Pokemon):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
                 self.avantage=['Psy', 'Fantasma']
                 self.desavantage=['Combattant', 'Fee']
-                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Venimeu', 'Terrestre', 'Vol', 'Inseto', 'Roche', 'Tenebres', 'Dragon', 'Acier']
+                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Venimeu', 'Terrestre', 'Vol', 'Insecte', 'Roche', 'Tenebres', 'Dragon', 'Acier']
 
 
 class Dragon(Pokemon):
@@ -147,7 +147,7 @@ class Dragon(Pokemon):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
                 self.avantage=[]
                 self.desavantage=['Acier', 'Fee']
-                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Combattant', 'Venimeu', 'Terrestre', 'Vol', 'Psy', 'Inseto', 'Roche', 'Fantasma', 'Tenebres', 'Dragon']
+                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Combattant', 'Venimeu', 'Terrestre', 'Vol', 'Psy', 'Insecte', 'Roche', 'Fantasma', 'Tenebres', 'Dragon']
 
 
 class Acier(Pokemon):
