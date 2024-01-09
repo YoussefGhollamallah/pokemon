@@ -166,7 +166,11 @@ class Fee(Pokemon):
                 self.egal=['Normal', 'Eau', 'Plante', 'Electrique', 'Gel', 'Terrestre', 'Vol', 'Psy', 'Insecte', 'Roche', 'Fantasma', 'Fee']  
 
  
+pikachu = (Electrique)("pikachu",Electrique,35,40,55,90)
+Tortipouss =(Plante)("Tortipouss",Plante,55,68,64,31)
+Ouisticram = (Feu)("Ouisticram",Feu,44,58,44,61)
+Tiplouf = (Eau)("Tiplouf",Feu,53,51,53,40)
 
 
-pokemons = []
-starter = []
+pokemons = [pikachu, Tortipouss, Ouisticram, Tiplouf ]
+starter = [Tortipouss, Ouisticram, Tiplouf]
