@@ -32,143 +32,143 @@ class Normal(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
                 self.avantage=[]
-                self.desavantage=['Roche', 'Spectre']
-                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Combat', 'Poison', 'Sol', 'Vol', 'Psy', 'Insecte', 'Tenebres', 'Dragon', 'Acier', 'Fee']
+                self.desavantage=['Rock', 'Spectre']
+                self.egal=['Normal', 'Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Dark', 'Dragon', 'Steel', 'Fairy']
 
 
-class Feu(Pokemon):
+class Fire(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Plante', 'Gel', 'Insecte', 'Acier']
-                self.desavantage=['Eau', 'Roche', 'Dragon']
-                self.egal=['Normal', 'Feu', 'Electrique', 'Combat', 'Poison', 'Sol', 'Vol', 'Psy', 'Spectre', 'Tenebres', 'Fee']     
+                self.avantage=['Grass', 'Ice', 'Bug', 'Steel']
+                self.desavantage=['Water', 'Rock', 'Dragon']
+                self.egal=['Normal', 'Fire', 'Electric', 'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Spectre', 'Dark', 'Fairy']     
 
 
-class Eau(Pokemon):
+class Water(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type, hp,attaque, defense, vitesse)
-                self.avantage=['Feu', 'Sol', 'Roche']
-                self.desavantage=['Plante', 'Dragon']
-                self.egal=['Normal', 'Eau', 'Electrique', 'Gel', 'Combat', 'Poison', 'Vol', 'Psy', 'Insecte', 'Spectre', 'Tenebres', 'Acier', 'Fee']
+                self.avantage=['Fire', 'Ground', 'Rock']
+                self.desavantage=['Grass', 'Dragon']
+                self.egal=['Normal', 'Water', 'Electric', 'Ice', 'Fighting', 'Poison', 'Flying', 'Psychic', 'Bug', 'Spectre', 'Dark', 'Steel', 'Fairy']
 
 
-class Plante(Pokemon):
+class Grass(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type, hp,attaque, defense, vitesse)
-                self.avantage=['Eau', 'Sol', 'Roche']
-                self.desavantage=['Feu', 'Poison', 'Vol', 'Insecte', 'Dragon', 'Acier']
-                self.egal=['Normal', 'Plante', 'Electrique', 'Gel', 'Combat', 'Psy', 'Spectre', 'Tenebres', 'Fee']
+                self.avantage=['Water', 'Ground', 'Rock']
+                self.desavantage=['Fire', 'Poison', 'Flying', 'Bug', 'Dragon', 'Steel']
+                self.egal=['Normal', 'Grass', 'Electric', 'Ice', 'Fighting', 'Psychic', 'Spectre', 'Dark', 'Fairy']
 
 
-class Electrique(Pokemon):
+class Electric(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Eau', 'Vol']
-                self.desavantage=['Plante', 'Sol', 'Dragon']
-                self.egal=['Normal', 'Feu', 'Electrique', 'Gel', 'Combat', 'Poison', 'Psy', 'Insecte', 'Roche', 'Spectre', 'Tenebres', 'Acier', 'Fee']
+                self.avantage=['Water', 'Flying']
+                self.desavantage=['Grass', 'Ground', 'Dragon']
+                self.egal=['Normal', 'Fire', 'Electric', 'Ice', 'Fighting', 'Poison', 'Psychic', 'Bug', 'Rock', 'Spectre', 'Dark', 'Steel', 'Fairy']
 
 
-class Gel(Pokemon):
+class Ice(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Plante', 'Sol', 'Vol', 'Dragon']
-                self.desavantage=['Feu', 'Eau', 'Acier']
-                self.egal=['Normal', 'Electrique', 'Gel', 'Combat', 'Poison', 'Psy', 'Insecte', 'Roche', 'Spectre', 'Tenebres', 'Fee']
+                self.avantage=['Grass', 'Ground', 'Flying', 'Dragon']
+                self.desavantage=['Fire', 'Water', 'Steel']
+                self.egal=['Normal', 'Electric', 'Ice', 'Fighting', 'Poison', 'Psychic', 'Bug', 'Rock', 'Spectre', 'Dark', 'Fairy']
 
 
-class Combat(Pokemon):
+class Fighting(Pokemon):
         def __init__(self, nom, tipo, hp, attaque, defense, vitesse):
                 super().__init__(nom, tipo,hp, attaque, defense, vitesse)
-                self.avantage=['Normal', 'Gelo', 'Roche', 'Tenebres', 'Acier']
-                self.desavantage=['Poison', 'Vol', 'Psy', 'Insecte', 'Spectre', 'Fee']
-                self.egal=['Feu', 'Eau', 'Plante', 'Electrique', 'Combat', 'Sol', 'Dragon']
+                self.avantage=['Normal', 'Ice', 'Rock', 'Dark', 'Steel']
+                self.desavantage=['Poison', 'Flying', 'Psychic', 'Bug', 'Spectre', 'Fairy']
+                self.egal=['Fire', 'Water', 'Grass', 'Electric', 'Fighting', 'Ground', 'Dragon']
 
 
 class Poison(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Plante', 'Fee']
-                self.desavantage=['Sol', 'Roche', 'Spectre', 'Acier']
-                self.egal=['Normal', 'Feu', 'Eau', 'Electrique', 'Gel', 'Combat', 'Poison', 'Vol', 'Psy', 'Insecte', 'Tenebres', 'Dragon']  
+                self.avantage=['Grass', 'Fairy']
+                self.desavantage=['Ground', 'Rock', 'Spectre', 'Steel']
+                self.egal=['Normal', 'Fire', 'Water', 'Electric', 'Ice', 'Fighting', 'Poison', 'Flying', 'Psychic', 'Bug', 'Dark', 'Dragon']  
 
 
-class Sol(Pokemon):
+class Ground(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Feu', 'Electrique', 'Poison', 'Roche', 'Acier']
-                self.desavantage=['Plante', 'Vol', 'Insecte']
-                self.egal=['Normal', 'Eau', 'Gelo', 'Combat', 'Sol', 'Psy', 'Spectre', 'Tenebres', 'Dragon', 'Fee']
+                self.avantage=['Fire', 'Electric', 'Poison', 'Rock', 'Steel']
+                self.desavantage=['Grass', 'Flying', 'Bug']
+                self.egal=['Normal', 'Water', 'Ice', 'Fighting', 'Ground', 'Psychic', 'Spectre', 'Dark', 'Dragon', 'Fairy']
 
 
-class Vol(Pokemon):
+class Flying(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type, hp,attaque, defense, vitesse)
-                self.avantage=['Plante', 'Combat', 'Insecte']
-                self.desavantage=['Electrique', 'Roche', 'Acier']
-                self.egal=['Normal', 'Feu', 'Eau', 'Gelo', 'Poison', 'Sol', 'Vol', 'Psy', 'Spectre', 'Tenebres', 'Dragon', 'Fee']  
+                self.avantage=['Grass', 'Fighting', 'Bug']
+                self.desavantage=['Electric', 'Rock', 'Steel']
+                self.egal=['Normal', 'Fire', 'Water', 'Ice', 'Poison', 'Ground', 'Flying', 'Psychic', 'Spectre', 'Dark', 'Dragon', 'Fairy']  
 
 
-class Psy(Pokemon):
+class Psychic(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Combat', 'Poison']
-                self.desavantage=['Tenebres', 'Acier']
-                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gelo', 'Sol', 'Vol', 'Psy', 'Insecte', 'Roche', 'Spectre', 'Dragon', 'Fee']
+                self.avantage=['Fighting', 'Poison']
+                self.desavantage=['Dark', 'Steel']
+                self.egal=['Normal', 'Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Spectre', 'Dragon', 'Fairy']
 
 
-class Insecte(Pokemon):
+class Bug(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Plante', 'Psy', 'Tenebres']
-                self.desavantage=['Feu', 'Combat', 'Poison', 'Vol', 'Spectre', 'Acier', 'Fee']
-                self.egal=['Normal', 'Eau', 'Electrique', 'Gel', 'Sol', 'Insecte', 'Roche', 'Dragon']
+                self.avantage=['Grass', 'Psychic', 'Dark']
+                self.desavantage=['Fire', 'Fighting', 'Poison', 'Flying', 'Spectre', 'Steel', 'Fairy']
+                self.egal=['Normal', 'Water', 'Electric', 'Ice', 'Ground', 'Bug', 'Rock', 'Dragon']
 
 
-class Roche(Pokemon):
+class Rock(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Feu', 'Gel', 'Vol']
-                self.desavantage=['Combat', 'Sol', 'Acier']
-                self.egal=['Normal', 'Eau', 'Plante', 'Electrique', 'Poison', 'Psy', 'Insecte', 'Roche', 'Spectre', 'Tenebres', 'Dragon', 'Fee']
+                self.avantage=['Fire', 'Ice', 'Flying']
+                self.desavantage=['Fighting', 'Ground', 'Steel']
+                self.egal=['Normal', 'Water', 'Grass', 'Electric', 'Poison', 'Psychic', 'Bug', 'Rock', 'Spectre', 'Dark', 'Dragon', 'Fairy']
 
 class Spectre(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type, hp,attaque, defense, vitesse)
-                self.avantage=['Psy']
-                self.desavantage=['Normal', 'Tenebres']
-                self.egal=['Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Combat', 'Poison', 'Sol', 'Vol', 'Insecte', 'Roche', 'Spectre', 'Dragon', 'Acier', 'Fee']
+                self.avantage=['Psychic']
+                self.desavantage=['Normal', 'Dark']
+                self.egal=['Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Fighting', 'Poison', 'Ground', 'Flying', 'Bug', 'Rock', 'Spectre', 'Dragon', 'Steel', 'Fairy']
 
 
-class Tenebres(Pokemon):
+class Dark(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Psy', 'Spectre']
-                self.desavantage=['Combat', 'Fee']
-                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Poison', 'Sol', 'Vol', 'Insecte', 'Roche', 'Tenebres', 'Dragon', 'Acier']
+                self.avantage=['Psychic', 'Spectre']
+                self.desavantage=['Fighting', 'Fairy']
+                self.egal=['Normal', 'Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Poison', 'Ground', 'Flying', 'Bug', 'Rock', 'Dark', 'Dragon', 'Steel']
 
 
 class Dragon(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
                 self.avantage=[]
-                self.desavantage=['Acier', 'Fee']
-                self.egal=['Normal', 'Feu', 'Eau', 'Plante', 'Electrique', 'Gel', 'Combat', 'Poison', 'Sol', 'Vol', 'Psy', 'Insecte', 'Roche', 'Spectre', 'Tenebres', 'Dragon']
+                self.desavantage=['Steel', 'Fairy']
+                self.egal=['Normal', 'Fire', 'Water', 'Grass', 'Electric', 'Ice', 'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Spectre', 'Dark', 'Dragon']
 
 
-class Acier(Pokemon):
+class Steel(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type, hp,attaque, defense, vitesse)
-                self.avantage=['Gel', 'Roche', 'Fee']
-                self.desavantage=['Feu', 'Eau', 'Electrique']
-                self.egal=['Normal', 'Plante', 'Combat', 'Poison', 'Sol', 'Vol', 'Psy', 'Insecte', 'Spectre', 'Tenebres', 'Dragon', 'Acier']
+                self.avantage=['Ice', 'Rock', 'Fairy']
+                self.desavantage=['Fire', 'Water', 'Electric']
+                self.egal=['Normal', 'Grass', 'Fighting', 'Poison', 'Ground', 'Flying', 'Psychic', 'Bug', 'Spectre', 'Dark', 'Dragon', 'Steel']
 
 
-class Fee(Pokemon):
+class Fairy(Pokemon):
         def __init__(self, nom, type, hp, attaque, defense, vitesse):
                 super().__init__(nom, type,hp, attaque, defense, vitesse)
-                self.avantage=['Combat', 'Tenebres', 'Dragon']
-                self.desavantage=['Feu', 'Poison', 'Acier']
-                self.egal=['Normal', 'Eau', 'Plante', 'Electrique', 'Gel', 'Sol', 'Vol', 'Psy', 'Insecte', 'Roche', 'Spectre', 'Fee']  
+                self.avantage=['Fighting', 'Dark', 'Dragon']
+                self.desavantage=['Fire', 'Poison', 'Steel']
+                self.egal=['Normal', 'Water', 'Grass', 'Electric', 'Ice', 'Ground', 'Flying', 'Psychic', 'Bug', 'Rock', 'Spectre', 'Fairy']  
 
 import json
 
