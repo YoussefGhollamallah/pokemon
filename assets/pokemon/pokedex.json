@@ -1,7 +1,7 @@
-﻿[
+[
     {
         "id": "1",
-        "name": "Bulbizarre",
+        "name": "Bulbasaur",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "45",
@@ -13,7 +13,7 @@
     },
     {
         "id": "2",
-        "name": "Herbizarre",
+        "name": "Ivysaur",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "60",
@@ -25,7 +25,7 @@
     },
     {
         "id": "3",
-        "name": "Florizarre",
+        "name": "Venusaur",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "80",
@@ -37,7 +37,7 @@
     },
     {
         "id": "4",
-        "name": "SalamÃ¨che",
+        "name": "Charmander",
         "type/0": "Fire",
         "type/1": "",
         "hp": "39",
@@ -49,7 +49,7 @@
     },
     {
         "id": "5",
-        "name": "Reptincel",
+        "name": "Charmeleon",
         "type/0": "Fire",
         "type/1": "",
         "hp": "58",
@@ -61,7 +61,7 @@
     },
     {
         "id": "6",
-        "name": "Dracaufeu",
+        "name": "Charizard",
         "type/0": "Fire",
         "type/1": "Flying",
         "hp": "78",
@@ -73,7 +73,7 @@
     },
     {
         "id": "7",
-        "name": "Carapuce",
+        "name": "Squirtle",
         "type/0": "Water",
         "type/1": "",
         "hp": "44",
@@ -85,7 +85,7 @@
     },
     {
         "id": "8",
-        "name": "Carabaffe",
+        "name": "Wartortle",
         "type/0": "Water",
         "type/1": "",
         "hp": "59",
@@ -97,7 +97,7 @@
     },
     {
         "id": "9",
-        "name": "Tortank",
+        "name": "Blastoise",
         "type/0": "Water",
         "type/1": "",
         "hp": "79",
@@ -109,7 +109,7 @@
     },
     {
         "id": "10",
-        "name": "Chenipan",
+        "name": "Caterpie",
         "type/0": "Bug",
         "type/1": "",
         "hp": "45",
@@ -121,7 +121,7 @@
     },
     {
         "id": "11",
-        "name": "Chrysacier",
+        "name": "Metapod",
         "type/0": "Bug",
         "type/1": "",
         "hp": "50",
@@ -133,7 +133,7 @@
     },
     {
         "id": "12",
-        "name": "Papilusion",
+        "name": "Butterfree",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "60",
@@ -145,7 +145,7 @@
     },
     {
         "id": "13",
-        "name": "Aspicot",
+        "name": "Weedle",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "40",
@@ -157,7 +157,7 @@
     },
     {
         "id": "14",
-        "name": "Coconfort",
+        "name": "Kakuna",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "45",
@@ -169,7 +169,7 @@
     },
     {
         "id": "15",
-        "name": "Dardargnan",
+        "name": "Beedrill",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "65",
@@ -181,7 +181,7 @@
     },
     {
         "id": "16",
-        "name": "Roucool",
+        "name": "Pidgey",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "40",
@@ -193,7 +193,7 @@
     },
     {
         "id": "17",
-        "name": "Roucoups",
+        "name": "Pidgeotto",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "63",
@@ -205,7 +205,7 @@
     },
     {
         "id": "18",
-        "name": "Roucarnage",
+        "name": "Pidgeot",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "83",
@@ -229,7 +229,7 @@
     },
     {
         "id": "20",
-        "name": "Rattatac",
+        "name": "Raticate",
         "type/0": "Normal",
         "type/1": "",
         "hp": "55",
@@ -241,7 +241,7 @@
     },
     {
         "id": "21",
-        "name": "Piafabec",
+        "name": "Spearow",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "40",
@@ -253,7 +253,7 @@
     },
     {
         "id": "22",
-        "name": "Rapasdepic",
+        "name": "Fearow",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "65",
@@ -265,7 +265,7 @@
     },
     {
         "id": "23",
-        "name": "Abo",
+        "name": "Ekans",
         "type/0": "Poison",
         "type/1": "",
         "hp": "35",
@@ -313,7 +313,7 @@
     },
     {
         "id": "27",
-        "name": "Sabelette",
+        "name": "Sandshrew",
         "type/0": "Ground",
         "type/1": "",
         "hp": "50",
@@ -325,7 +325,7 @@
     },
     {
         "id": "28",
-        "name": "Sablaireau",
+        "name": "Sandslash",
         "type/0": "Ground",
         "type/1": "",
         "hp": "75",
@@ -409,7 +409,7 @@
     },
     {
         "id": "35",
-        "name": "MÃ©lofÃ©e",
+        "name": "Clefairy",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "70",
@@ -421,7 +421,7 @@
     },
     {
         "id": "36",
-        "name": "MÃ©lodelfe",
+        "name": "Clefable",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "95",
@@ -433,7 +433,7 @@
     },
     {
         "id": "37",
-        "name": "Goupix",
+        "name": "Vulpix",
         "type/0": "Fire",
         "type/1": "",
         "hp": "38",
@@ -445,7 +445,7 @@
     },
     {
         "id": "38",
-        "name": "Feunard",
+        "name": "Ninetales",
         "type/0": "Fire",
         "type/1": "",
         "hp": "73",
@@ -457,7 +457,7 @@
     },
     {
         "id": "39",
-        "name": "Rondoudou",
+        "name": "Jigglypuff",
         "type/0": "Normal",
         "type/1": "Fairy",
         "hp": "115",
@@ -469,7 +469,7 @@
     },
     {
         "id": "40",
-        "name": "Grodoudou",
+        "name": "Wigglytuff",
         "type/0": "Normal",
         "type/1": "Fairy",
         "hp": "140",
@@ -481,7 +481,7 @@
     },
     {
         "id": "41",
-        "name": "Nosferapti",
+        "name": "Zubat",
         "type/0": "Poison",
         "type/1": "Flying",
         "hp": "40",
@@ -493,7 +493,7 @@
     },
     {
         "id": "42",
-        "name": "Nosferalto",
+        "name": "Golbat",
         "type/0": "Poison",
         "type/1": "Flying",
         "hp": "75",
@@ -505,7 +505,7 @@
     },
     {
         "id": "43",
-        "name": "Mystherbe",
+        "name": "Oddish",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "45",
@@ -517,7 +517,7 @@
     },
     {
         "id": "44",
-        "name": "Ortide",
+        "name": "Gloom",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "60",
@@ -529,7 +529,7 @@
     },
     {
         "id": "45",
-        "name": "Rafflesia",
+        "name": "Vileplume",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "75",
@@ -565,7 +565,7 @@
     },
     {
         "id": "48",
-        "name": "Mimitoss",
+        "name": "Venonat",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "60",
@@ -577,7 +577,7 @@
     },
     {
         "id": "49",
-        "name": "AÃ©romite",
+        "name": "Venomoth",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "70",
@@ -589,7 +589,7 @@
     },
     {
         "id": "50",
-        "name": "Taupiqueur",
+        "name": "Diglett",
         "type/0": "Ground",
         "type/1": "",
         "hp": "10",
@@ -601,7 +601,7 @@
     },
     {
         "id": "51",
-        "name": "Triopikeur",
+        "name": "Dugtrio",
         "type/0": "Ground",
         "type/1": "",
         "hp": "35",
@@ -613,7 +613,7 @@
     },
     {
         "id": "52",
-        "name": "Miaouss",
+        "name": "Meowth",
         "type/0": "Normal",
         "type/1": "",
         "hp": "40",
@@ -637,7 +637,7 @@
     },
     {
         "id": "54",
-        "name": "Psykokwak",
+        "name": "Psyduck",
         "type/0": "Water",
         "type/1": "",
         "hp": "50",
@@ -649,7 +649,7 @@
     },
     {
         "id": "55",
-        "name": "Akwakwak",
+        "name": "Golduck",
         "type/0": "Water",
         "type/1": "",
         "hp": "80",
@@ -661,7 +661,7 @@
     },
     {
         "id": "56",
-        "name": "FÃ©rosinge",
+        "name": "Mankey",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "40",
@@ -673,7 +673,7 @@
     },
     {
         "id": "57",
-        "name": "Colossinge",
+        "name": "Primeape",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "65",
@@ -685,7 +685,7 @@
     },
     {
         "id": "58",
-        "name": "Caninos",
+        "name": "Growlithe",
         "type/0": "Fire",
         "type/1": "",
         "hp": "55",
@@ -697,7 +697,7 @@
     },
     {
         "id": "59",
-        "name": "Arcanin",
+        "name": "Arcanine",
         "type/0": "Fire",
         "type/1": "",
         "hp": "90",
@@ -709,7 +709,7 @@
     },
     {
         "id": "60",
-        "name": "Ptitard",
+        "name": "Poliwag",
         "type/0": "Water",
         "type/1": "",
         "hp": "40",
@@ -721,7 +721,7 @@
     },
     {
         "id": "61",
-        "name": "TÃªtarte",
+        "name": "Poliwhirl",
         "type/0": "Water",
         "type/1": "",
         "hp": "65",
@@ -733,7 +733,7 @@
     },
     {
         "id": "62",
-        "name": "Tartard",
+        "name": "Poliwrath",
         "type/0": "Water",
         "type/1": "Fighting",
         "hp": "90",
@@ -781,7 +781,7 @@
     },
     {
         "id": "66",
-        "name": "Machoc",
+        "name": "Machop",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "70",
@@ -793,7 +793,7 @@
     },
     {
         "id": "67",
-        "name": "Machopeur",
+        "name": "Machoke",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "80",
@@ -805,7 +805,7 @@
     },
     {
         "id": "68",
-        "name": "Mackogneur",
+        "name": "Machamp",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "90",
@@ -817,7 +817,7 @@
     },
     {
         "id": "69",
-        "name": "ChÃ©tiflor",
+        "name": "Bellsprout",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "50",
@@ -829,7 +829,7 @@
     },
     {
         "id": "70",
-        "name": "Boustiflor",
+        "name": "Weepinbell",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "65",
@@ -841,7 +841,7 @@
     },
     {
         "id": "71",
-        "name": "Empiflor",
+        "name": "Victreebel",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "80",
@@ -877,7 +877,7 @@
     },
     {
         "id": "74",
-        "name": "Racaillou",
+        "name": "Geodude",
         "type/0": "Rock",
         "type/1": "Ground",
         "hp": "40",
@@ -889,7 +889,7 @@
     },
     {
         "id": "75",
-        "name": "Gravalanch",
+        "name": "Graveler",
         "type/0": "Rock",
         "type/1": "Ground",
         "hp": "55",
@@ -901,7 +901,7 @@
     },
     {
         "id": "76",
-        "name": "Grolem",
+        "name": "Golem",
         "type/0": "Rock",
         "type/1": "Ground",
         "hp": "80",
@@ -925,7 +925,7 @@
     },
     {
         "id": "78",
-        "name": "Galopa",
+        "name": "Rapidash",
         "type/0": "Fire",
         "type/1": "",
         "hp": "65",
@@ -937,7 +937,7 @@
     },
     {
         "id": "79",
-        "name": "Ramoloss",
+        "name": "Slowpoke",
         "type/0": "Water",
         "type/1": "Psychic",
         "hp": "90",
@@ -949,7 +949,7 @@
     },
     {
         "id": "80",
-        "name": "Flagadoss",
+        "name": "Slowbro",
         "type/0": "Water",
         "type/1": "Psychic",
         "hp": "95",
@@ -961,7 +961,7 @@
     },
     {
         "id": "81",
-        "name": "MagnÃ©ti",
+        "name": "Magnemite",
         "type/0": "Electric",
         "type/1": "Steel",
         "hp": "25",
@@ -973,7 +973,7 @@
     },
     {
         "id": "82",
-        "name": "MagnÃ©ton",
+        "name": "Magneton",
         "type/0": "Electric",
         "type/1": "Steel",
         "hp": "50",
@@ -985,7 +985,7 @@
     },
     {
         "id": "83",
-        "name": "Canarticho",
+        "name": "Farfetch'd",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "52",
@@ -1021,7 +1021,7 @@
     },
     {
         "id": "86",
-        "name": "Otaria",
+        "name": "Seel",
         "type/0": "Water",
         "type/1": "",
         "hp": "65",
@@ -1033,7 +1033,7 @@
     },
     {
         "id": "87",
-        "name": "Lamantine",
+        "name": "Dewgong",
         "type/0": "Water",
         "type/1": "Ice",
         "hp": "90",
@@ -1045,7 +1045,7 @@
     },
     {
         "id": "88",
-        "name": "Tadmorv",
+        "name": "Grimer",
         "type/0": "Poison",
         "type/1": "",
         "hp": "80",
@@ -1057,7 +1057,7 @@
     },
     {
         "id": "89",
-        "name": "Grotadmorv",
+        "name": "Muk",
         "type/0": "Poison",
         "type/1": "",
         "hp": "105",
@@ -1069,7 +1069,7 @@
     },
     {
         "id": "90",
-        "name": "Kokiyas",
+        "name": "Shellder",
         "type/0": "Water",
         "type/1": "",
         "hp": "30",
@@ -1081,7 +1081,7 @@
     },
     {
         "id": "91",
-        "name": "Crustabri",
+        "name": "Cloyster",
         "type/0": "Water",
         "type/1": "Ice",
         "hp": "50",
@@ -1093,7 +1093,7 @@
     },
     {
         "id": "92",
-        "name": "Fantominus",
+        "name": "Gastly",
         "type/0": "Ghost",
         "type/1": "Poison",
         "hp": "30",
@@ -1105,7 +1105,7 @@
     },
     {
         "id": "93",
-        "name": "Spectrum",
+        "name": "Haunter",
         "type/0": "Ghost",
         "type/1": "Poison",
         "hp": "45",
@@ -1117,7 +1117,7 @@
     },
     {
         "id": "94",
-        "name": "Ectoplasma",
+        "name": "Gengar",
         "type/0": "Ghost",
         "type/1": "Poison",
         "hp": "60",
@@ -1141,7 +1141,7 @@
     },
     {
         "id": "96",
-        "name": "Soporifik",
+        "name": "Drowzee",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "60",
@@ -1153,7 +1153,7 @@
     },
     {
         "id": "97",
-        "name": "Hypnomade",
+        "name": "Hypno",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "85",
@@ -1177,7 +1177,7 @@
     },
     {
         "id": "99",
-        "name": "Krabboss",
+        "name": "Kingler",
         "type/0": "Water",
         "type/1": "",
         "hp": "55",
@@ -1189,7 +1189,7 @@
     },
     {
         "id": "100",
-        "name": "Voltorbe",
+        "name": "Voltorb",
         "type/0": "Electric",
         "type/1": "",
         "hp": "40",
@@ -1201,7 +1201,7 @@
     },
     {
         "id": "101",
-        "name": "Ã‰lectrode",
+        "name": "Electrode",
         "type/0": "Electric",
         "type/1": "",
         "hp": "60",
@@ -1213,7 +1213,7 @@
     },
     {
         "id": "102",
-        "name": "Noeunoeuf",
+        "name": "Exeggcute",
         "type/0": "Grass",
         "type/1": "Psychic",
         "hp": "60",
@@ -1225,7 +1225,7 @@
     },
     {
         "id": "103",
-        "name": "Noadkoko",
+        "name": "Exeggutor",
         "type/0": "Grass",
         "type/1": "Psychic",
         "hp": "95",
@@ -1237,7 +1237,7 @@
     },
     {
         "id": "104",
-        "name": "Osselait",
+        "name": "Cubone",
         "type/0": "Ground",
         "type/1": "",
         "hp": "50",
@@ -1249,7 +1249,7 @@
     },
     {
         "id": "105",
-        "name": "Ossatueur",
+        "name": "Marowak",
         "type/0": "Ground",
         "type/1": "",
         "hp": "60",
@@ -1261,7 +1261,7 @@
     },
     {
         "id": "106",
-        "name": "Kicklee",
+        "name": "Hitmonlee",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "50",
@@ -1273,7 +1273,7 @@
     },
     {
         "id": "107",
-        "name": "Tygnon",
+        "name": "Hitmonchan",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "50",
@@ -1285,7 +1285,7 @@
     },
     {
         "id": "108",
-        "name": "Excelangue",
+        "name": "Lickitung",
         "type/0": "Normal",
         "type/1": "",
         "hp": "90",
@@ -1297,7 +1297,7 @@
     },
     {
         "id": "109",
-        "name": "Smogo",
+        "name": "Koffing",
         "type/0": "Poison",
         "type/1": "",
         "hp": "40",
@@ -1309,7 +1309,7 @@
     },
     {
         "id": "110",
-        "name": "Smogogo",
+        "name": "Weezing",
         "type/0": "Poison",
         "type/1": "",
         "hp": "65",
@@ -1321,7 +1321,7 @@
     },
     {
         "id": "111",
-        "name": "Rhinocorne",
+        "name": "Rhyhorn",
         "type/0": "Ground",
         "type/1": "Rock",
         "hp": "80",
@@ -1333,7 +1333,7 @@
     },
     {
         "id": "112",
-        "name": "RhinofÃ©ros",
+        "name": "Rhydon",
         "type/0": "Ground",
         "type/1": "Rock",
         "hp": "105",
@@ -1345,7 +1345,7 @@
     },
     {
         "id": "113",
-        "name": "Leveinard",
+        "name": "Chansey",
         "type/0": "Normal",
         "type/1": "",
         "hp": "250",
@@ -1357,7 +1357,7 @@
     },
     {
         "id": "114",
-        "name": "Saquedeneu",
+        "name": "Tangela",
         "type/0": "Grass",
         "type/1": "",
         "hp": "65",
@@ -1369,7 +1369,7 @@
     },
     {
         "id": "115",
-        "name": "Kangourex",
+        "name": "Kangaskhan",
         "type/0": "Normal",
         "type/1": "",
         "hp": "105",
@@ -1381,7 +1381,7 @@
     },
     {
         "id": "116",
-        "name": "Hypotrempe",
+        "name": "Horsea",
         "type/0": "Water",
         "type/1": "",
         "hp": "30",
@@ -1393,7 +1393,7 @@
     },
     {
         "id": "117",
-        "name": "HypocÃ©an",
+        "name": "Seadra",
         "type/0": "Water",
         "type/1": "",
         "hp": "55",
@@ -1405,7 +1405,7 @@
     },
     {
         "id": "118",
-        "name": "PoissirÃ¨ne",
+        "name": "Goldeen",
         "type/0": "Water",
         "type/1": "",
         "hp": "45",
@@ -1417,7 +1417,7 @@
     },
     {
         "id": "119",
-        "name": "Poissoroy",
+        "name": "Seaking",
         "type/0": "Water",
         "type/1": "",
         "hp": "80",
@@ -1429,7 +1429,7 @@
     },
     {
         "id": "120",
-        "name": "Stari",
+        "name": "Staryu",
         "type/0": "Water",
         "type/1": "",
         "hp": "30",
@@ -1441,7 +1441,7 @@
     },
     {
         "id": "121",
-        "name": "Staross",
+        "name": "Starmie",
         "type/0": "Water",
         "type/1": "Psychic",
         "hp": "60",
@@ -1453,7 +1453,7 @@
     },
     {
         "id": "122",
-        "name": "M. Mime",
+        "name": "Mr. Mime",
         "type/0": "Psychic",
         "type/1": "Fairy",
         "hp": "40",
@@ -1465,7 +1465,7 @@
     },
     {
         "id": "123",
-        "name": "InsÃ©cateur",
+        "name": "Scyther",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "70",
@@ -1477,7 +1477,7 @@
     },
     {
         "id": "124",
-        "name": "Lippoutou",
+        "name": "Jynx",
         "type/0": "Ice",
         "type/1": "Psychic",
         "hp": "65",
@@ -1489,7 +1489,7 @@
     },
     {
         "id": "125",
-        "name": "Ã‰lektek",
+        "name": "Electabuzz",
         "type/0": "Electric",
         "type/1": "",
         "hp": "65",
@@ -1513,7 +1513,7 @@
     },
     {
         "id": "127",
-        "name": "Scarabrute",
+        "name": "Pinsir",
         "type/0": "Bug",
         "type/1": "",
         "hp": "65",
@@ -1537,7 +1537,7 @@
     },
     {
         "id": "129",
-        "name": "Magicarpe",
+        "name": "Magikarp",
         "type/0": "Water",
         "type/1": "",
         "hp": "20",
@@ -1549,7 +1549,7 @@
     },
     {
         "id": "130",
-        "name": "LÃ©viator",
+        "name": "Gyarados",
         "type/0": "Water",
         "type/1": "Flying",
         "hp": "95",
@@ -1561,7 +1561,7 @@
     },
     {
         "id": "131",
-        "name": "Lokhlass",
+        "name": "Lapras",
         "type/0": "Water",
         "type/1": "Ice",
         "hp": "130",
@@ -1573,7 +1573,7 @@
     },
     {
         "id": "132",
-        "name": "MÃ©tamorph",
+        "name": "Ditto",
         "type/0": "Normal",
         "type/1": "",
         "hp": "48",
@@ -1585,7 +1585,7 @@
     },
     {
         "id": "133",
-        "name": "Ã‰voli",
+        "name": "Eevee",
         "type/0": "Normal",
         "type/1": "",
         "hp": "55",
@@ -1597,7 +1597,7 @@
     },
     {
         "id": "134",
-        "name": "Aquali",
+        "name": "Vaporeon",
         "type/0": "Water",
         "type/1": "",
         "hp": "130",
@@ -1609,7 +1609,7 @@
     },
     {
         "id": "135",
-        "name": "Voltali",
+        "name": "Jolteon",
         "type/0": "Electric",
         "type/1": "",
         "hp": "65",
@@ -1621,7 +1621,7 @@
     },
     {
         "id": "136",
-        "name": "Pyroli",
+        "name": "Flareon",
         "type/0": "Fire",
         "type/1": "",
         "hp": "65",
@@ -1645,7 +1645,7 @@
     },
     {
         "id": "138",
-        "name": "Amonita",
+        "name": "Omanyte",
         "type/0": "Rock",
         "type/1": "Water",
         "hp": "35",
@@ -1657,7 +1657,7 @@
     },
     {
         "id": "139",
-        "name": "Amonistar",
+        "name": "Omastar",
         "type/0": "Rock",
         "type/1": "Water",
         "hp": "70",
@@ -1693,7 +1693,7 @@
     },
     {
         "id": "142",
-        "name": "PtÃ©ra",
+        "name": "Aerodactyl",
         "type/0": "Rock",
         "type/1": "Flying",
         "hp": "80",
@@ -1705,7 +1705,7 @@
     },
     {
         "id": "143",
-        "name": "Ronflex",
+        "name": "Snorlax",
         "type/0": "Normal",
         "type/1": "",
         "hp": "160",
@@ -1717,7 +1717,7 @@
     },
     {
         "id": "144",
-        "name": "Artikodin",
+        "name": "Articuno",
         "type/0": "Ice",
         "type/1": "Flying",
         "hp": "90",
@@ -1729,7 +1729,7 @@
     },
     {
         "id": "145",
-        "name": "Ã‰lecthor",
+        "name": "Zapdos",
         "type/0": "Electric",
         "type/1": "Flying",
         "hp": "90",
@@ -1741,7 +1741,7 @@
     },
     {
         "id": "146",
-        "name": "Sulfura",
+        "name": "Moltres",
         "type/0": "Fire",
         "type/1": "Flying",
         "hp": "90",
@@ -1753,7 +1753,7 @@
     },
     {
         "id": "147",
-        "name": "Minidraco",
+        "name": "Dratini",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "41",
@@ -1765,7 +1765,7 @@
     },
     {
         "id": "148",
-        "name": "Draco",
+        "name": "Dragonair",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "61",
@@ -1777,7 +1777,7 @@
     },
     {
         "id": "149",
-        "name": "Dracolosse",
+        "name": "Dragonite",
         "type/0": "Dragon",
         "type/1": "Flying",
         "hp": "91",
@@ -1813,7 +1813,7 @@
     },
     {
         "id": "152",
-        "name": "Germignon",
+        "name": "Chikorita",
         "type/0": "Grass",
         "type/1": "",
         "hp": "45",
@@ -1825,7 +1825,7 @@
     },
     {
         "id": "153",
-        "name": "Macronium",
+        "name": "Bayleef",
         "type/0": "Grass",
         "type/1": "",
         "hp": "60",
@@ -1837,7 +1837,7 @@
     },
     {
         "id": "154",
-        "name": "MÃ©ganium",
+        "name": "Meganium",
         "type/0": "Grass",
         "type/1": "",
         "hp": "80",
@@ -1849,7 +1849,7 @@
     },
     {
         "id": "155",
-        "name": "HÃ©ricendre",
+        "name": "Cyndaquil",
         "type/0": "Fire",
         "type/1": "",
         "hp": "39",
@@ -1861,7 +1861,7 @@
     },
     {
         "id": "156",
-        "name": "Feurisson",
+        "name": "Quilava",
         "type/0": "Fire",
         "type/1": "",
         "hp": "58",
@@ -1885,7 +1885,7 @@
     },
     {
         "id": "158",
-        "name": "Kaiminus",
+        "name": "Totodile",
         "type/0": "Water",
         "type/1": "",
         "hp": "50",
@@ -1897,7 +1897,7 @@
     },
     {
         "id": "159",
-        "name": "Crocrodil",
+        "name": "Croconaw",
         "type/0": "Water",
         "type/1": "",
         "hp": "65",
@@ -1909,7 +1909,7 @@
     },
     {
         "id": "160",
-        "name": "Aligatueur",
+        "name": "Feraligatr",
         "type/0": "Water",
         "type/1": "",
         "hp": "85",
@@ -1921,7 +1921,7 @@
     },
     {
         "id": "161",
-        "name": "Fouinette",
+        "name": "Sentret",
         "type/0": "Normal",
         "type/1": "",
         "hp": "35",
@@ -1933,7 +1933,7 @@
     },
     {
         "id": "162",
-        "name": "Fouinar",
+        "name": "Furret",
         "type/0": "Normal",
         "type/1": "",
         "hp": "85",
@@ -1957,7 +1957,7 @@
     },
     {
         "id": "164",
-        "name": "Noarfang",
+        "name": "Noctowl",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "100",
@@ -1969,7 +1969,7 @@
     },
     {
         "id": "165",
-        "name": "Coxy",
+        "name": "Ledyba",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "40",
@@ -1981,7 +1981,7 @@
     },
     {
         "id": "166",
-        "name": "Coxyclaque",
+        "name": "Ledian",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "55",
@@ -1993,7 +1993,7 @@
     },
     {
         "id": "167",
-        "name": "Mimigal",
+        "name": "Spinarak",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "40",
@@ -2005,7 +2005,7 @@
     },
     {
         "id": "168",
-        "name": "Migalos",
+        "name": "Ariados",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "70",
@@ -2017,7 +2017,7 @@
     },
     {
         "id": "169",
-        "name": "Nostenfer",
+        "name": "Crobat",
         "type/0": "Poison",
         "type/1": "Flying",
         "hp": "85",
@@ -2029,7 +2029,7 @@
     },
     {
         "id": "170",
-        "name": "Loupio",
+        "name": "Chinchou",
         "type/0": "Water",
         "type/1": "Electric",
         "hp": "75",
@@ -2065,7 +2065,7 @@
     },
     {
         "id": "173",
-        "name": "MÃ©lo",
+        "name": "Cleffa",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "50",
@@ -2077,7 +2077,7 @@
     },
     {
         "id": "174",
-        "name": "Toudoudou",
+        "name": "Igglybuff",
         "type/0": "Normal",
         "type/1": "Fairy",
         "hp": "90",
@@ -2137,7 +2137,7 @@
     },
     {
         "id": "179",
-        "name": "Wattouat",
+        "name": "Mareep",
         "type/0": "Electric",
         "type/1": "",
         "hp": "55",
@@ -2149,7 +2149,7 @@
     },
     {
         "id": "180",
-        "name": "Lainergie",
+        "name": "Flaaffy",
         "type/0": "Electric",
         "type/1": "",
         "hp": "70",
@@ -2161,7 +2161,7 @@
     },
     {
         "id": "181",
-        "name": "Pharamp",
+        "name": "Ampharos",
         "type/0": "Electric",
         "type/1": "",
         "hp": "90",
@@ -2173,7 +2173,7 @@
     },
     {
         "id": "182",
-        "name": "Joliflor",
+        "name": "Bellossom",
         "type/0": "Grass",
         "type/1": "",
         "hp": "75",
@@ -2209,7 +2209,7 @@
     },
     {
         "id": "185",
-        "name": "Simularbre",
+        "name": "Sudowoodo",
         "type/0": "Rock",
         "type/1": "",
         "hp": "70",
@@ -2221,7 +2221,7 @@
     },
     {
         "id": "186",
-        "name": "Tarpaud",
+        "name": "Politoed",
         "type/0": "Water",
         "type/1": "",
         "hp": "90",
@@ -2233,7 +2233,7 @@
     },
     {
         "id": "187",
-        "name": "Granivol",
+        "name": "Hoppip",
         "type/0": "Grass",
         "type/1": "Flying",
         "hp": "35",
@@ -2245,7 +2245,7 @@
     },
     {
         "id": "188",
-        "name": "Floravol",
+        "name": "Skiploom",
         "type/0": "Grass",
         "type/1": "Flying",
         "hp": "55",
@@ -2257,7 +2257,7 @@
     },
     {
         "id": "189",
-        "name": "Cotovol",
+        "name": "Jumpluff",
         "type/0": "Grass",
         "type/1": "Flying",
         "hp": "75",
@@ -2269,7 +2269,7 @@
     },
     {
         "id": "190",
-        "name": "Capumain",
+        "name": "Aipom",
         "type/0": "Normal",
         "type/1": "",
         "hp": "55",
@@ -2281,7 +2281,7 @@
     },
     {
         "id": "191",
-        "name": "Tournegrin",
+        "name": "Sunkern",
         "type/0": "Grass",
         "type/1": "",
         "hp": "30",
@@ -2293,7 +2293,7 @@
     },
     {
         "id": "192",
-        "name": "HÃ©liatronc",
+        "name": "Sunflora",
         "type/0": "Grass",
         "type/1": "",
         "hp": "75",
@@ -2317,7 +2317,7 @@
     },
     {
         "id": "194",
-        "name": "Axoloto",
+        "name": "Wooper",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "55",
@@ -2329,7 +2329,7 @@
     },
     {
         "id": "195",
-        "name": "Maraiste",
+        "name": "Quagsire",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "95",
@@ -2341,7 +2341,7 @@
     },
     {
         "id": "196",
-        "name": "Mentali",
+        "name": "Espeon",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "65",
@@ -2353,7 +2353,7 @@
     },
     {
         "id": "197",
-        "name": "Noctali",
+        "name": "Umbreon",
         "type/0": "Dark",
         "type/1": "",
         "hp": "95",
@@ -2365,7 +2365,7 @@
     },
     {
         "id": "198",
-        "name": "CornÃ¨bre",
+        "name": "Murkrow",
         "type/0": "Dark",
         "type/1": "Flying",
         "hp": "60",
@@ -2377,7 +2377,7 @@
     },
     {
         "id": "199",
-        "name": "Roigada",
+        "name": "Slowking",
         "type/0": "Water",
         "type/1": "Psychic",
         "hp": "95",
@@ -2389,7 +2389,7 @@
     },
     {
         "id": "200",
-        "name": "FeuforÃªve",
+        "name": "Misdreavus",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "60",
@@ -2401,7 +2401,7 @@
     },
     {
         "id": "201",
-        "name": "Zarbi",
+        "name": "Unown",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "48",
@@ -2413,7 +2413,7 @@
     },
     {
         "id": "202",
-        "name": "QulbutokÃ©",
+        "name": "Wobbuffet",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "190",
@@ -2437,7 +2437,7 @@
     },
     {
         "id": "204",
-        "name": "Pomdepik",
+        "name": "Pineco",
         "type/0": "Bug",
         "type/1": "",
         "hp": "50",
@@ -2449,7 +2449,7 @@
     },
     {
         "id": "205",
-        "name": "Foretress",
+        "name": "Forretress",
         "type/0": "Bug",
         "type/1": "Steel",
         "hp": "75",
@@ -2461,7 +2461,7 @@
     },
     {
         "id": "206",
-        "name": "Insolourdo",
+        "name": "Dunsparce",
         "type/0": "Normal",
         "type/1": "",
         "hp": "100",
@@ -2473,7 +2473,7 @@
     },
     {
         "id": "207",
-        "name": "Scorplane",
+        "name": "Gligar",
         "type/0": "Ground",
         "type/1": "Flying",
         "hp": "65",
@@ -2533,7 +2533,7 @@
     },
     {
         "id": "212",
-        "name": "Cizayox",
+        "name": "Scizor",
         "type/0": "Bug",
         "type/1": "Steel",
         "hp": "70",
@@ -2545,7 +2545,7 @@
     },
     {
         "id": "213",
-        "name": "Caratroc",
+        "name": "Shuckle",
         "type/0": "Bug",
         "type/1": "Rock",
         "hp": "20",
@@ -2557,7 +2557,7 @@
     },
     {
         "id": "214",
-        "name": "Scarhino",
+        "name": "Heracross",
         "type/0": "Bug",
         "type/1": "Fighting",
         "hp": "80",
@@ -2569,7 +2569,7 @@
     },
     {
         "id": "215",
-        "name": "Farfuret",
+        "name": "Sneasel",
         "type/0": "Dark",
         "type/1": "Ice",
         "hp": "55",
@@ -2605,7 +2605,7 @@
     },
     {
         "id": "218",
-        "name": "Limagma",
+        "name": "Slugma",
         "type/0": "Fire",
         "type/1": "",
         "hp": "40",
@@ -2617,7 +2617,7 @@
     },
     {
         "id": "219",
-        "name": "Volcaropod",
+        "name": "Magcargo",
         "type/0": "Fire",
         "type/1": "Rock",
         "hp": "60",
@@ -2629,7 +2629,7 @@
     },
     {
         "id": "220",
-        "name": "Marcacrin",
+        "name": "Swinub",
         "type/0": "Ice",
         "type/1": "Ground",
         "hp": "50",
@@ -2641,7 +2641,7 @@
     },
     {
         "id": "221",
-        "name": "Cochignon",
+        "name": "Piloswine",
         "type/0": "Ice",
         "type/1": "Ground",
         "hp": "100",
@@ -2653,7 +2653,7 @@
     },
     {
         "id": "222",
-        "name": "Corayon",
+        "name": "Corsola",
         "type/0": "Water",
         "type/1": "Rock",
         "hp": "65",
@@ -2665,7 +2665,7 @@
     },
     {
         "id": "223",
-        "name": "RÃ©moraid",
+        "name": "Remoraid",
         "type/0": "Water",
         "type/1": "",
         "hp": "35",
@@ -2689,7 +2689,7 @@
     },
     {
         "id": "225",
-        "name": "Cadoizo",
+        "name": "Delibird",
         "type/0": "Ice",
         "type/1": "Flying",
         "hp": "45",
@@ -2701,7 +2701,7 @@
     },
     {
         "id": "226",
-        "name": "DÃ©manta",
+        "name": "Mantine",
         "type/0": "Water",
         "type/1": "Flying",
         "hp": "85",
@@ -2713,7 +2713,7 @@
     },
     {
         "id": "227",
-        "name": "Airmure",
+        "name": "Skarmory",
         "type/0": "Steel",
         "type/1": "Flying",
         "hp": "65",
@@ -2725,7 +2725,7 @@
     },
     {
         "id": "228",
-        "name": "Malosse",
+        "name": "Houndour",
         "type/0": "Dark",
         "type/1": "Fire",
         "hp": "45",
@@ -2737,7 +2737,7 @@
     },
     {
         "id": "229",
-        "name": "DÃ©molosse",
+        "name": "Houndoom",
         "type/0": "Dark",
         "type/1": "Fire",
         "hp": "75",
@@ -2749,7 +2749,7 @@
     },
     {
         "id": "230",
-        "name": "Hyporoi",
+        "name": "Kingdra",
         "type/0": "Water",
         "type/1": "Dragon",
         "hp": "75",
@@ -2797,7 +2797,7 @@
     },
     {
         "id": "234",
-        "name": "Cerfrousse",
+        "name": "Stantler",
         "type/0": "Normal",
         "type/1": "",
         "hp": "73",
@@ -2809,7 +2809,7 @@
     },
     {
         "id": "235",
-        "name": "Queulorior",
+        "name": "Smeargle",
         "type/0": "Normal",
         "type/1": "",
         "hp": "55",
@@ -2821,7 +2821,7 @@
     },
     {
         "id": "236",
-        "name": "Debugant",
+        "name": "Tyrogue",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "35",
@@ -2833,7 +2833,7 @@
     },
     {
         "id": "237",
-        "name": "Kapoera",
+        "name": "Hitmontop",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "50",
@@ -2845,7 +2845,7 @@
     },
     {
         "id": "238",
-        "name": "Lippouti",
+        "name": "Smoochum",
         "type/0": "Ice",
         "type/1": "Psychic",
         "hp": "45",
@@ -2857,7 +2857,7 @@
     },
     {
         "id": "239",
-        "name": "Ã‰lekid",
+        "name": "Elekid",
         "type/0": "Electric",
         "type/1": "",
         "hp": "45",
@@ -2881,7 +2881,7 @@
     },
     {
         "id": "241",
-        "name": "Ã‰crÃ©meuh",
+        "name": "Miltank",
         "type/0": "Normal",
         "type/1": "",
         "hp": "95",
@@ -2893,7 +2893,7 @@
     },
     {
         "id": "242",
-        "name": "Leuphorie",
+        "name": "Blissey",
         "type/0": "Normal",
         "type/1": "",
         "hp": "255",
@@ -2941,7 +2941,7 @@
     },
     {
         "id": "246",
-        "name": "Embrylex",
+        "name": "Larvitar",
         "type/0": "Rock",
         "type/1": "Ground",
         "hp": "50",
@@ -2953,7 +2953,7 @@
     },
     {
         "id": "247",
-        "name": "Ymphect",
+        "name": "Pupitar",
         "type/0": "Rock",
         "type/1": "Ground",
         "hp": "70",
@@ -2965,7 +2965,7 @@
     },
     {
         "id": "248",
-        "name": "Tyranocif",
+        "name": "Tyranitar",
         "type/0": "Rock",
         "type/1": "Dark",
         "hp": "100",
@@ -3013,7 +3013,7 @@
     },
     {
         "id": "252",
-        "name": "Arcko",
+        "name": "Treecko",
         "type/0": "Grass",
         "type/1": "",
         "hp": "40",
@@ -3025,7 +3025,7 @@
     },
     {
         "id": "253",
-        "name": "Massko",
+        "name": "Grovyle",
         "type/0": "Grass",
         "type/1": "",
         "hp": "50",
@@ -3037,7 +3037,7 @@
     },
     {
         "id": "254",
-        "name": "Jungko",
+        "name": "Sceptile",
         "type/0": "Grass",
         "type/1": "",
         "hp": "70",
@@ -3049,7 +3049,7 @@
     },
     {
         "id": "255",
-        "name": "Poussifeu",
+        "name": "Torchic",
         "type/0": "Fire",
         "type/1": "",
         "hp": "45",
@@ -3061,7 +3061,7 @@
     },
     {
         "id": "256",
-        "name": "Galifeu",
+        "name": "Combusken",
         "type/0": "Fire",
         "type/1": "Fighting",
         "hp": "60",
@@ -3073,7 +3073,7 @@
     },
     {
         "id": "257",
-        "name": "BrasÃ©gali",
+        "name": "Blaziken",
         "type/0": "Fire",
         "type/1": "Fighting",
         "hp": "80",
@@ -3085,7 +3085,7 @@
     },
     {
         "id": "258",
-        "name": "Gobou",
+        "name": "Mudkip",
         "type/0": "Water",
         "type/1": "",
         "hp": "50",
@@ -3097,7 +3097,7 @@
     },
     {
         "id": "259",
-        "name": "Flobio",
+        "name": "Marshtomp",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "70",
@@ -3109,7 +3109,7 @@
     },
     {
         "id": "260",
-        "name": "Laggron",
+        "name": "Swampert",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "100",
@@ -3121,7 +3121,7 @@
     },
     {
         "id": "261",
-        "name": "MedhyÃ¨na",
+        "name": "Poochyena",
         "type/0": "Dark",
         "type/1": "",
         "hp": "35",
@@ -3133,7 +3133,7 @@
     },
     {
         "id": "262",
-        "name": "GrahyÃ¨na",
+        "name": "Mightyena",
         "type/0": "Dark",
         "type/1": "",
         "hp": "70",
@@ -3145,7 +3145,7 @@
     },
     {
         "id": "263",
-        "name": "Zigzaton",
+        "name": "Zigzagoon",
         "type/0": "Normal",
         "type/1": "",
         "hp": "38",
@@ -3157,7 +3157,7 @@
     },
     {
         "id": "264",
-        "name": "LinÃ©on",
+        "name": "Linoone",
         "type/0": "Normal",
         "type/1": "",
         "hp": "78",
@@ -3169,7 +3169,7 @@
     },
     {
         "id": "265",
-        "name": "Chenipotte",
+        "name": "Wurmple",
         "type/0": "Bug",
         "type/1": "",
         "hp": "45",
@@ -3181,7 +3181,7 @@
     },
     {
         "id": "266",
-        "name": "Armulys",
+        "name": "Silcoon",
         "type/0": "Bug",
         "type/1": "",
         "hp": "50",
@@ -3193,7 +3193,7 @@
     },
     {
         "id": "267",
-        "name": "Charmillon",
+        "name": "Beautifly",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "60",
@@ -3205,7 +3205,7 @@
     },
     {
         "id": "268",
-        "name": "Blindalys",
+        "name": "Cascoon",
         "type/0": "Bug",
         "type/1": "",
         "hp": "50",
@@ -3217,7 +3217,7 @@
     },
     {
         "id": "269",
-        "name": "Papinox",
+        "name": "Dustox",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "60",
@@ -3229,7 +3229,7 @@
     },
     {
         "id": "270",
-        "name": "NÃ©nupiot",
+        "name": "Lotad",
         "type/0": "Water",
         "type/1": "Grass",
         "hp": "40",
@@ -3265,7 +3265,7 @@
     },
     {
         "id": "273",
-        "name": "Grainipiot",
+        "name": "Seedot",
         "type/0": "Grass",
         "type/1": "",
         "hp": "40",
@@ -3277,7 +3277,7 @@
     },
     {
         "id": "274",
-        "name": "Pifeuil",
+        "name": "Nuzleaf",
         "type/0": "Grass",
         "type/1": "Dark",
         "hp": "70",
@@ -3289,7 +3289,7 @@
     },
     {
         "id": "275",
-        "name": "Tengalice",
+        "name": "Shiftry",
         "type/0": "Grass",
         "type/1": "Dark",
         "hp": "90",
@@ -3301,7 +3301,7 @@
     },
     {
         "id": "276",
-        "name": "Nirondelle",
+        "name": "Taillow",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "40",
@@ -3313,7 +3313,7 @@
     },
     {
         "id": "277",
-        "name": "HÃ©lÃ©delle",
+        "name": "Swellow",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "60",
@@ -3325,7 +3325,7 @@
     },
     {
         "id": "278",
-        "name": "GoÃ©lise",
+        "name": "Wingull",
         "type/0": "Water",
         "type/1": "Flying",
         "hp": "40",
@@ -3337,7 +3337,7 @@
     },
     {
         "id": "279",
-        "name": "Bekipan",
+        "name": "Pelipper",
         "type/0": "Water",
         "type/1": "Flying",
         "hp": "60",
@@ -3349,7 +3349,7 @@
     },
     {
         "id": "280",
-        "name": "Tarsal",
+        "name": "Ralts",
         "type/0": "Psychic",
         "type/1": "Fairy",
         "hp": "28",
@@ -3385,7 +3385,7 @@
     },
     {
         "id": "283",
-        "name": "Arakdo",
+        "name": "Surskit",
         "type/0": "Bug",
         "type/1": "Water",
         "hp": "40",
@@ -3397,7 +3397,7 @@
     },
     {
         "id": "284",
-        "name": "Maskadra",
+        "name": "Masquerain",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "70",
@@ -3409,7 +3409,7 @@
     },
     {
         "id": "285",
-        "name": "Balignon",
+        "name": "Shroomish",
         "type/0": "Grass",
         "type/1": "",
         "hp": "60",
@@ -3421,7 +3421,7 @@
     },
     {
         "id": "286",
-        "name": "Chapignon",
+        "name": "Breloom",
         "type/0": "Grass",
         "type/1": "Fighting",
         "hp": "60",
@@ -3433,7 +3433,7 @@
     },
     {
         "id": "287",
-        "name": "Parecool",
+        "name": "Slakoth",
         "type/0": "Normal",
         "type/1": "",
         "hp": "60",
@@ -3457,7 +3457,7 @@
     },
     {
         "id": "289",
-        "name": "MonaflÃ¨mit",
+        "name": "Slaking",
         "type/0": "Normal",
         "type/1": "",
         "hp": "150",
@@ -3469,7 +3469,7 @@
     },
     {
         "id": "290",
-        "name": "Ningale",
+        "name": "Nincada",
         "type/0": "Bug",
         "type/1": "Ground",
         "hp": "31",
@@ -3493,7 +3493,7 @@
     },
     {
         "id": "292",
-        "name": "Munja",
+        "name": "Shedinja",
         "type/0": "Bug",
         "type/1": "Ghost",
         "hp": "1",
@@ -3505,7 +3505,7 @@
     },
     {
         "id": "293",
-        "name": "Chuchmur",
+        "name": "Whismur",
         "type/0": "Normal",
         "type/1": "",
         "hp": "64",
@@ -3517,7 +3517,7 @@
     },
     {
         "id": "294",
-        "name": "Ramboum",
+        "name": "Loudred",
         "type/0": "Normal",
         "type/1": "",
         "hp": "84",
@@ -3529,7 +3529,7 @@
     },
     {
         "id": "295",
-        "name": "Brouhabam",
+        "name": "Exploud",
         "type/0": "Normal",
         "type/1": "",
         "hp": "104",
@@ -3577,7 +3577,7 @@
     },
     {
         "id": "299",
-        "name": "Tarinor",
+        "name": "Nosepass",
         "type/0": "Rock",
         "type/1": "",
         "hp": "30",
@@ -3613,7 +3613,7 @@
     },
     {
         "id": "302",
-        "name": "TÃ©nÃ©fix",
+        "name": "Sableye",
         "type/0": "Dark",
         "type/1": "Ghost",
         "hp": "50",
@@ -3625,7 +3625,7 @@
     },
     {
         "id": "303",
-        "name": "Mysdibule",
+        "name": "Mawile",
         "type/0": "Steel",
         "type/1": "Fairy",
         "hp": "50",
@@ -3637,7 +3637,7 @@
     },
     {
         "id": "304",
-        "name": "Galekid",
+        "name": "Aron",
         "type/0": "Steel",
         "type/1": "Rock",
         "hp": "50",
@@ -3649,7 +3649,7 @@
     },
     {
         "id": "305",
-        "name": "Galegon",
+        "name": "Lairon",
         "type/0": "Steel",
         "type/1": "Rock",
         "hp": "60",
@@ -3661,7 +3661,7 @@
     },
     {
         "id": "306",
-        "name": "Galeking",
+        "name": "Aggron",
         "type/0": "Steel",
         "type/1": "Rock",
         "hp": "70",
@@ -3673,7 +3673,7 @@
     },
     {
         "id": "307",
-        "name": "MÃ©ditikka",
+        "name": "Meditite",
         "type/0": "Fighting",
         "type/1": "Psychic",
         "hp": "30",
@@ -3685,7 +3685,7 @@
     },
     {
         "id": "308",
-        "name": "Charmina",
+        "name": "Medicham",
         "type/0": "Fighting",
         "type/1": "Psychic",
         "hp": "60",
@@ -3697,7 +3697,7 @@
     },
     {
         "id": "309",
-        "name": "Dynavolt",
+        "name": "Electrike",
         "type/0": "Electric",
         "type/1": "",
         "hp": "40",
@@ -3709,7 +3709,7 @@
     },
     {
         "id": "310",
-        "name": "Ã‰lecsprint",
+        "name": "Manectric",
         "type/0": "Electric",
         "type/1": "",
         "hp": "70",
@@ -3721,7 +3721,7 @@
     },
     {
         "id": "311",
-        "name": "Posipi",
+        "name": "Plusle",
         "type/0": "Electric",
         "type/1": "",
         "hp": "60",
@@ -3733,7 +3733,7 @@
     },
     {
         "id": "312",
-        "name": "NÃ©gapi",
+        "name": "Minun",
         "type/0": "Electric",
         "type/1": "",
         "hp": "60",
@@ -3745,7 +3745,7 @@
     },
     {
         "id": "313",
-        "name": "Muciole",
+        "name": "Volbeat",
         "type/0": "Bug",
         "type/1": "",
         "hp": "65",
@@ -3757,7 +3757,7 @@
     },
     {
         "id": "314",
-        "name": "Lumivole",
+        "name": "Illumise",
         "type/0": "Bug",
         "type/1": "",
         "hp": "65",
@@ -3769,7 +3769,7 @@
     },
     {
         "id": "315",
-        "name": "RosÃ©lia",
+        "name": "Roselia",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "50",
@@ -3781,7 +3781,7 @@
     },
     {
         "id": "316",
-        "name": "Gloupti",
+        "name": "Gulpin",
         "type/0": "Poison",
         "type/1": "",
         "hp": "70",
@@ -3793,7 +3793,7 @@
     },
     {
         "id": "317",
-        "name": "Avaltout",
+        "name": "Swalot",
         "type/0": "Poison",
         "type/1": "",
         "hp": "100",
@@ -3853,7 +3853,7 @@
     },
     {
         "id": "322",
-        "name": "Chamallot",
+        "name": "Numel",
         "type/0": "Fire",
         "type/1": "Ground",
         "hp": "60",
@@ -3865,7 +3865,7 @@
     },
     {
         "id": "323",
-        "name": "CamÃ©rupt",
+        "name": "Camerupt",
         "type/0": "Fire",
         "type/1": "Ground",
         "hp": "70",
@@ -3877,7 +3877,7 @@
     },
     {
         "id": "324",
-        "name": "Chartor",
+        "name": "Torkoal",
         "type/0": "Fire",
         "type/1": "",
         "hp": "70",
@@ -3901,7 +3901,7 @@
     },
     {
         "id": "326",
-        "name": "Groret",
+        "name": "Grumpig",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "80",
@@ -3925,7 +3925,7 @@
     },
     {
         "id": "328",
-        "name": "Kraknoix",
+        "name": "Trapinch",
         "type/0": "Ground",
         "type/1": "",
         "hp": "45",
@@ -3937,7 +3937,7 @@
     },
     {
         "id": "329",
-        "name": "Vibraninf",
+        "name": "Vibrava",
         "type/0": "Ground",
         "type/1": "Dragon",
         "hp": "50",
@@ -3949,7 +3949,7 @@
     },
     {
         "id": "330",
-        "name": "LibÃ©gon",
+        "name": "Flygon",
         "type/0": "Ground",
         "type/1": "Dragon",
         "hp": "80",
@@ -3985,7 +3985,7 @@
     },
     {
         "id": "333",
-        "name": "Tylton",
+        "name": "Swablu",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "45",
@@ -4009,7 +4009,7 @@
     },
     {
         "id": "335",
-        "name": "Mangriff",
+        "name": "Zangoose",
         "type/0": "Normal",
         "type/1": "",
         "hp": "73",
@@ -4021,7 +4021,7 @@
     },
     {
         "id": "336",
-        "name": "SÃ©viper",
+        "name": "Seviper",
         "type/0": "Poison",
         "type/1": "",
         "hp": "73",
@@ -4033,7 +4033,7 @@
     },
     {
         "id": "337",
-        "name": "SÃ©lÃ©roc",
+        "name": "Lunatone",
         "type/0": "Rock",
         "type/1": "Psychic",
         "hp": "90",
@@ -4045,7 +4045,7 @@
     },
     {
         "id": "338",
-        "name": "Solaroc",
+        "name": "Solrock",
         "type/0": "Rock",
         "type/1": "Psychic",
         "hp": "90",
@@ -4057,7 +4057,7 @@
     },
     {
         "id": "339",
-        "name": "Barloche",
+        "name": "Barboach",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "50",
@@ -4069,7 +4069,7 @@
     },
     {
         "id": "340",
-        "name": "Barbicha",
+        "name": "Whiscash",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "110",
@@ -4081,7 +4081,7 @@
     },
     {
         "id": "341",
-        "name": "Ã‰crapince",
+        "name": "Corphish",
         "type/0": "Water",
         "type/1": "",
         "hp": "43",
@@ -4093,7 +4093,7 @@
     },
     {
         "id": "342",
-        "name": "Colhomard",
+        "name": "Crawdaunt",
         "type/0": "Water",
         "type/1": "Dark",
         "hp": "63",
@@ -4105,7 +4105,7 @@
     },
     {
         "id": "343",
-        "name": "Balbuto",
+        "name": "Baltoy",
         "type/0": "Ground",
         "type/1": "Psychic",
         "hp": "40",
@@ -4117,7 +4117,7 @@
     },
     {
         "id": "344",
-        "name": "Kaorine",
+        "name": "Claydol",
         "type/0": "Ground",
         "type/1": "Psychic",
         "hp": "60",
@@ -4129,7 +4129,7 @@
     },
     {
         "id": "345",
-        "name": "Lilia",
+        "name": "Lileep",
         "type/0": "Rock",
         "type/1": "Grass",
         "hp": "66",
@@ -4141,7 +4141,7 @@
     },
     {
         "id": "346",
-        "name": "Vacilys",
+        "name": "Cradily",
         "type/0": "Rock",
         "type/1": "Grass",
         "hp": "86",
@@ -4177,7 +4177,7 @@
     },
     {
         "id": "349",
-        "name": "Barpau",
+        "name": "Feebas",
         "type/0": "Water",
         "type/1": "",
         "hp": "20",
@@ -4189,7 +4189,7 @@
     },
     {
         "id": "350",
-        "name": "Milobellus",
+        "name": "Milotic",
         "type/0": "Water",
         "type/1": "",
         "hp": "95",
@@ -4201,7 +4201,7 @@
     },
     {
         "id": "351",
-        "name": "MorphÃ©o",
+        "name": "Castform",
         "type/0": "Normal",
         "type/1": "",
         "hp": "70",
@@ -4225,7 +4225,7 @@
     },
     {
         "id": "353",
-        "name": "Polichombr",
+        "name": "Shuppet",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "44",
@@ -4237,7 +4237,7 @@
     },
     {
         "id": "354",
-        "name": "Branette",
+        "name": "Banette",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "64",
@@ -4249,7 +4249,7 @@
     },
     {
         "id": "355",
-        "name": "SkelÃ©nox",
+        "name": "Duskull",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "20",
@@ -4261,7 +4261,7 @@
     },
     {
         "id": "356",
-        "name": "TÃ©raclope",
+        "name": "Dusclops",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "40",
@@ -4285,7 +4285,7 @@
     },
     {
         "id": "358",
-        "name": "Ã‰oko",
+        "name": "Chimecho",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "75",
@@ -4309,7 +4309,7 @@
     },
     {
         "id": "360",
-        "name": "OkÃ©okÃ©",
+        "name": "Wynaut",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "95",
@@ -4321,7 +4321,7 @@
     },
     {
         "id": "361",
-        "name": "Stalgamin",
+        "name": "Snorunt",
         "type/0": "Ice",
         "type/1": "",
         "hp": "50",
@@ -4333,7 +4333,7 @@
     },
     {
         "id": "362",
-        "name": "Oniglali",
+        "name": "Glalie",
         "type/0": "Ice",
         "type/1": "",
         "hp": "80",
@@ -4345,7 +4345,7 @@
     },
     {
         "id": "363",
-        "name": "Obalie",
+        "name": "Spheal",
         "type/0": "Ice",
         "type/1": "Water",
         "hp": "70",
@@ -4357,7 +4357,7 @@
     },
     {
         "id": "364",
-        "name": "Phogleur",
+        "name": "Sealeo",
         "type/0": "Ice",
         "type/1": "Water",
         "hp": "90",
@@ -4369,7 +4369,7 @@
     },
     {
         "id": "365",
-        "name": "Kaimorse",
+        "name": "Walrein",
         "type/0": "Ice",
         "type/1": "Water",
         "hp": "110",
@@ -4381,7 +4381,7 @@
     },
     {
         "id": "366",
-        "name": "Coquiperl",
+        "name": "Clamperl",
         "type/0": "Water",
         "type/1": "",
         "hp": "35",
@@ -4393,7 +4393,7 @@
     },
     {
         "id": "367",
-        "name": "Serpang",
+        "name": "Huntail",
         "type/0": "Water",
         "type/1": "",
         "hp": "55",
@@ -4405,7 +4405,7 @@
     },
     {
         "id": "368",
-        "name": "Rosabyss",
+        "name": "Gorebyss",
         "type/0": "Water",
         "type/1": "",
         "hp": "55",
@@ -4429,7 +4429,7 @@
     },
     {
         "id": "370",
-        "name": "Lovdisc",
+        "name": "Luvdisc",
         "type/0": "Water",
         "type/1": "",
         "hp": "43",
@@ -4441,7 +4441,7 @@
     },
     {
         "id": "371",
-        "name": "Draby",
+        "name": "Bagon",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "45",
@@ -4453,7 +4453,7 @@
     },
     {
         "id": "372",
-        "name": "Drackhaus",
+        "name": "Shelgon",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "65",
@@ -4465,7 +4465,7 @@
     },
     {
         "id": "373",
-        "name": "Drattak",
+        "name": "Salamence",
         "type/0": "Dragon",
         "type/1": "Flying",
         "hp": "95",
@@ -4477,7 +4477,7 @@
     },
     {
         "id": "374",
-        "name": "Terhal",
+        "name": "Beldum",
         "type/0": "Steel",
         "type/1": "Psychic",
         "hp": "40",
@@ -4489,7 +4489,7 @@
     },
     {
         "id": "375",
-        "name": "MÃ©tang",
+        "name": "Metang",
         "type/0": "Steel",
         "type/1": "Psychic",
         "hp": "60",
@@ -4501,7 +4501,7 @@
     },
     {
         "id": "376",
-        "name": "MÃ©talosse",
+        "name": "Metagross",
         "type/0": "Steel",
         "type/1": "Psychic",
         "hp": "80",
@@ -4633,7 +4633,7 @@
     },
     {
         "id": "387",
-        "name": "Tortipouss",
+        "name": "Turtwig",
         "type/0": "Grass",
         "type/1": "",
         "hp": "55",
@@ -4645,7 +4645,7 @@
     },
     {
         "id": "388",
-        "name": "Boskara",
+        "name": "Grotle",
         "type/0": "Grass",
         "type/1": "",
         "hp": "75",
@@ -4669,7 +4669,7 @@
     },
     {
         "id": "390",
-        "name": "Ouisticram",
+        "name": "Chimchar",
         "type/0": "Fire",
         "type/1": "",
         "hp": "44",
@@ -4681,7 +4681,7 @@
     },
     {
         "id": "391",
-        "name": "Chimpenfeu",
+        "name": "Monferno",
         "type/0": "Fire",
         "type/1": "Fighting",
         "hp": "64",
@@ -4693,7 +4693,7 @@
     },
     {
         "id": "392",
-        "name": "Simiabraz",
+        "name": "Infernape",
         "type/0": "Fire",
         "type/1": "Fighting",
         "hp": "76",
@@ -4705,7 +4705,7 @@
     },
     {
         "id": "393",
-        "name": "Tiplouf",
+        "name": "Piplup",
         "type/0": "Water",
         "type/1": "",
         "hp": "53",
@@ -4717,7 +4717,7 @@
     },
     {
         "id": "394",
-        "name": "Prinplouf",
+        "name": "Prinplup",
         "type/0": "Water",
         "type/1": "",
         "hp": "64",
@@ -4729,7 +4729,7 @@
     },
     {
         "id": "395",
-        "name": "PingolÃ©on",
+        "name": "Empoleon",
         "type/0": "Water",
         "type/1": "Steel",
         "hp": "84",
@@ -4741,7 +4741,7 @@
     },
     {
         "id": "396",
-        "name": "Ã‰tourmi",
+        "name": "Starly",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "40",
@@ -4753,7 +4753,7 @@
     },
     {
         "id": "397",
-        "name": "Ã‰tourvol",
+        "name": "Staravia",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "55",
@@ -4765,7 +4765,7 @@
     },
     {
         "id": "398",
-        "name": "Ã‰touraptor",
+        "name": "Staraptor",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "85",
@@ -4777,7 +4777,7 @@
     },
     {
         "id": "399",
-        "name": "Keunotor",
+        "name": "Bidoof",
         "type/0": "Normal",
         "type/1": "",
         "hp": "59",
@@ -4789,7 +4789,7 @@
     },
     {
         "id": "400",
-        "name": "Castorno",
+        "name": "Bibarel",
         "type/0": "Normal",
         "type/1": "Water",
         "hp": "79",
@@ -4801,7 +4801,7 @@
     },
     {
         "id": "401",
-        "name": "Crikzik",
+        "name": "Kricketot",
         "type/0": "Bug",
         "type/1": "",
         "hp": "37",
@@ -4813,7 +4813,7 @@
     },
     {
         "id": "402",
-        "name": "MÃ©lokrik",
+        "name": "Kricketune",
         "type/0": "Bug",
         "type/1": "",
         "hp": "77",
@@ -4825,7 +4825,7 @@
     },
     {
         "id": "403",
-        "name": "Lixy",
+        "name": "Shinx",
         "type/0": "Electric",
         "type/1": "",
         "hp": "45",
@@ -4861,7 +4861,7 @@
     },
     {
         "id": "406",
-        "name": "Rozbouton",
+        "name": "Budew",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "40",
@@ -4885,7 +4885,7 @@
     },
     {
         "id": "408",
-        "name": "Kranidos",
+        "name": "Cranidos",
         "type/0": "Rock",
         "type/1": "",
         "hp": "67",
@@ -4897,7 +4897,7 @@
     },
     {
         "id": "409",
-        "name": "Charkos",
+        "name": "Rampardos",
         "type/0": "Rock",
         "type/1": "",
         "hp": "97",
@@ -4909,7 +4909,7 @@
     },
     {
         "id": "410",
-        "name": "Dinoclier",
+        "name": "Shieldon",
         "type/0": "Rock",
         "type/1": "Steel",
         "hp": "30",
@@ -4933,7 +4933,7 @@
     },
     {
         "id": "412",
-        "name": "Cheniti",
+        "name": "Burmy",
         "type/0": "Bug",
         "type/1": "",
         "hp": "40",
@@ -4945,7 +4945,7 @@
     },
     {
         "id": "413",
-        "name": "Cheniselle",
+        "name": "Wormadam",
         "type/0": "Bug",
         "type/1": "Grass",
         "hp": "60",
@@ -4957,7 +4957,7 @@
     },
     {
         "id": "414",
-        "name": "Papilord",
+        "name": "Mothim",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "70",
@@ -4969,7 +4969,7 @@
     },
     {
         "id": "415",
-        "name": "Apitrini",
+        "name": "Combee",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "30",
@@ -4981,7 +4981,7 @@
     },
     {
         "id": "416",
-        "name": "Apireine",
+        "name": "Vespiquen",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "70",
@@ -5005,7 +5005,7 @@
     },
     {
         "id": "418",
-        "name": "MustÃ©bouÃ©e",
+        "name": "Buizel",
         "type/0": "Water",
         "type/1": "",
         "hp": "55",
@@ -5017,7 +5017,7 @@
     },
     {
         "id": "419",
-        "name": "MustÃ©flott",
+        "name": "Floatzel",
         "type/0": "Water",
         "type/1": "",
         "hp": "85",
@@ -5029,7 +5029,7 @@
     },
     {
         "id": "420",
-        "name": "Ceribou",
+        "name": "Cherubi",
         "type/0": "Grass",
         "type/1": "",
         "hp": "45",
@@ -5041,7 +5041,7 @@
     },
     {
         "id": "421",
-        "name": "Ceriflor",
+        "name": "Cherrim",
         "type/0": "Grass",
         "type/1": "",
         "hp": "70",
@@ -5053,7 +5053,7 @@
     },
     {
         "id": "422",
-        "name": "Sancoki",
+        "name": "Shellos",
         "type/0": "Water",
         "type/1": "",
         "hp": "76",
@@ -5065,7 +5065,7 @@
     },
     {
         "id": "423",
-        "name": "Tritosor",
+        "name": "Gastrodon",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "111",
@@ -5077,7 +5077,7 @@
     },
     {
         "id": "424",
-        "name": "Capidextre",
+        "name": "Ambipom",
         "type/0": "Normal",
         "type/1": "",
         "hp": "75",
@@ -5089,7 +5089,7 @@
     },
     {
         "id": "425",
-        "name": "Baudrive",
+        "name": "Drifloon",
         "type/0": "Ghost",
         "type/1": "Flying",
         "hp": "90",
@@ -5101,7 +5101,7 @@
     },
     {
         "id": "426",
-        "name": "Grodrive",
+        "name": "Drifblim",
         "type/0": "Ghost",
         "type/1": "Flying",
         "hp": "150",
@@ -5113,7 +5113,7 @@
     },
     {
         "id": "427",
-        "name": "Laporeille",
+        "name": "Buneary",
         "type/0": "Normal",
         "type/1": "",
         "hp": "55",
@@ -5125,7 +5125,7 @@
     },
     {
         "id": "428",
-        "name": "Lockpin",
+        "name": "Lopunny",
         "type/0": "Normal",
         "type/1": "",
         "hp": "65",
@@ -5137,7 +5137,7 @@
     },
     {
         "id": "429",
-        "name": "MagirÃªve",
+        "name": "Mismagius",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "60",
@@ -5149,7 +5149,7 @@
     },
     {
         "id": "430",
-        "name": "Corboss",
+        "name": "Honchkrow",
         "type/0": "Dark",
         "type/1": "Flying",
         "hp": "100",
@@ -5161,7 +5161,7 @@
     },
     {
         "id": "431",
-        "name": "Chaglam",
+        "name": "Glameow",
         "type/0": "Normal",
         "type/1": "",
         "hp": "49",
@@ -5173,7 +5173,7 @@
     },
     {
         "id": "432",
-        "name": "Chaffreux",
+        "name": "Purugly",
         "type/0": "Normal",
         "type/1": "",
         "hp": "71",
@@ -5185,7 +5185,7 @@
     },
     {
         "id": "433",
-        "name": "Korillon",
+        "name": "Chingling",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "45",
@@ -5197,7 +5197,7 @@
     },
     {
         "id": "434",
-        "name": "Moufouette",
+        "name": "Stunky",
         "type/0": "Poison",
         "type/1": "Dark",
         "hp": "63",
@@ -5209,7 +5209,7 @@
     },
     {
         "id": "435",
-        "name": "Moufflair",
+        "name": "Skuntank",
         "type/0": "Poison",
         "type/1": "Dark",
         "hp": "103",
@@ -5221,7 +5221,7 @@
     },
     {
         "id": "436",
-        "name": "ArchÃ©omire",
+        "name": "Bronzor",
         "type/0": "Steel",
         "type/1": "Psychic",
         "hp": "57",
@@ -5233,7 +5233,7 @@
     },
     {
         "id": "437",
-        "name": "ArchÃ©odong",
+        "name": "Bronzong",
         "type/0": "Steel",
         "type/1": "Psychic",
         "hp": "67",
@@ -5245,7 +5245,7 @@
     },
     {
         "id": "438",
-        "name": "ManzaÃ¯",
+        "name": "Bonsly",
         "type/0": "Rock",
         "type/1": "",
         "hp": "50",
@@ -5257,7 +5257,7 @@
     },
     {
         "id": "439",
-        "name": "Mime Jr",
+        "name": "Mime Jr.",
         "type/0": "Psychic",
         "type/1": "Fairy",
         "hp": "20",
@@ -5269,7 +5269,7 @@
     },
     {
         "id": "440",
-        "name": "Ptiravi",
+        "name": "Happiny",
         "type/0": "Normal",
         "type/1": "",
         "hp": "100",
@@ -5281,7 +5281,7 @@
     },
     {
         "id": "441",
-        "name": "Pijako",
+        "name": "Chatot",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "76",
@@ -5305,7 +5305,7 @@
     },
     {
         "id": "443",
-        "name": "Griknot",
+        "name": "Gible",
         "type/0": "Dragon",
         "type/1": "Ground",
         "hp": "58",
@@ -5317,7 +5317,7 @@
     },
     {
         "id": "444",
-        "name": "Carmache",
+        "name": "Gabite",
         "type/0": "Dragon",
         "type/1": "Ground",
         "hp": "68",
@@ -5329,7 +5329,7 @@
     },
     {
         "id": "445",
-        "name": "Carchacrok",
+        "name": "Garchomp",
         "type/0": "Dragon",
         "type/1": "Ground",
         "hp": "108",
@@ -5341,7 +5341,7 @@
     },
     {
         "id": "446",
-        "name": "Goinfrex",
+        "name": "Munchlax",
         "type/0": "Normal",
         "type/1": "",
         "hp": "135",
@@ -5389,7 +5389,7 @@
     },
     {
         "id": "450",
-        "name": "Hippodocus",
+        "name": "Hippowdon",
         "type/0": "Ground",
         "type/1": "",
         "hp": "108",
@@ -5401,7 +5401,7 @@
     },
     {
         "id": "451",
-        "name": "Rapion",
+        "name": "Skorupi",
         "type/0": "Poison",
         "type/1": "Bug",
         "hp": "40",
@@ -5413,7 +5413,7 @@
     },
     {
         "id": "452",
-        "name": "Drascore",
+        "name": "Drapion",
         "type/0": "Poison",
         "type/1": "Dark",
         "hp": "70",
@@ -5425,7 +5425,7 @@
     },
     {
         "id": "453",
-        "name": "Cradopaud",
+        "name": "Croagunk",
         "type/0": "Poison",
         "type/1": "Fighting",
         "hp": "48",
@@ -5437,7 +5437,7 @@
     },
     {
         "id": "454",
-        "name": "Coatox",
+        "name": "Toxicroak",
         "type/0": "Poison",
         "type/1": "Fighting",
         "hp": "83",
@@ -5449,7 +5449,7 @@
     },
     {
         "id": "455",
-        "name": "Vortente",
+        "name": "Carnivine",
         "type/0": "Grass",
         "type/1": "",
         "hp": "74",
@@ -5461,7 +5461,7 @@
     },
     {
         "id": "456",
-        "name": "Ã‰cayon",
+        "name": "Finneon",
         "type/0": "Water",
         "type/1": "",
         "hp": "49",
@@ -5473,7 +5473,7 @@
     },
     {
         "id": "457",
-        "name": "LuminÃ©on",
+        "name": "Lumineon",
         "type/0": "Water",
         "type/1": "",
         "hp": "69",
@@ -5485,7 +5485,7 @@
     },
     {
         "id": "458",
-        "name": "Babimanta",
+        "name": "Mantyke",
         "type/0": "Water",
         "type/1": "Flying",
         "hp": "45",
@@ -5497,7 +5497,7 @@
     },
     {
         "id": "459",
-        "name": "Blizzi",
+        "name": "Snover",
         "type/0": "Grass",
         "type/1": "Ice",
         "hp": "60",
@@ -5509,7 +5509,7 @@
     },
     {
         "id": "460",
-        "name": "Blizzaroi",
+        "name": "Abomasnow",
         "type/0": "Grass",
         "type/1": "Ice",
         "hp": "90",
@@ -5521,7 +5521,7 @@
     },
     {
         "id": "461",
-        "name": "Dimoret",
+        "name": "Weavile",
         "type/0": "Dark",
         "type/1": "Ice",
         "hp": "70",
@@ -5533,7 +5533,7 @@
     },
     {
         "id": "462",
-        "name": "MagnÃ©zone",
+        "name": "Magnezone",
         "type/0": "Electric",
         "type/1": "Steel",
         "hp": "70",
@@ -5545,7 +5545,7 @@
     },
     {
         "id": "463",
-        "name": "Coudlangue",
+        "name": "Lickilicky",
         "type/0": "Normal",
         "type/1": "",
         "hp": "110",
@@ -5557,7 +5557,7 @@
     },
     {
         "id": "464",
-        "name": "Rhinastoc",
+        "name": "Rhyperior",
         "type/0": "Ground",
         "type/1": "Rock",
         "hp": "115",
@@ -5569,7 +5569,7 @@
     },
     {
         "id": "465",
-        "name": "Bouldeneu",
+        "name": "Tangrowth",
         "type/0": "Grass",
         "type/1": "",
         "hp": "100",
@@ -5581,7 +5581,7 @@
     },
     {
         "id": "466",
-        "name": "Ã‰lekable",
+        "name": "Electivire",
         "type/0": "Electric",
         "type/1": "",
         "hp": "75",
@@ -5593,7 +5593,7 @@
     },
     {
         "id": "467",
-        "name": "Maganon",
+        "name": "Magmortar",
         "type/0": "Fire",
         "type/1": "",
         "hp": "75",
@@ -5629,7 +5629,7 @@
     },
     {
         "id": "470",
-        "name": "Phyllali",
+        "name": "Leafeon",
         "type/0": "Grass",
         "type/1": "",
         "hp": "65",
@@ -5641,7 +5641,7 @@
     },
     {
         "id": "471",
-        "name": "Givrali",
+        "name": "Glaceon",
         "type/0": "Ice",
         "type/1": "",
         "hp": "65",
@@ -5653,7 +5653,7 @@
     },
     {
         "id": "472",
-        "name": "Scorvol",
+        "name": "Gliscor",
         "type/0": "Ground",
         "type/1": "Flying",
         "hp": "75",
@@ -5665,7 +5665,7 @@
     },
     {
         "id": "473",
-        "name": "Mammochon",
+        "name": "Mamoswine",
         "type/0": "Ice",
         "type/1": "Ground",
         "hp": "110",
@@ -5689,7 +5689,7 @@
     },
     {
         "id": "475",
-        "name": "Gallame",
+        "name": "Gallade",
         "type/0": "Psychic",
         "type/1": "Fighting",
         "hp": "68",
@@ -5701,7 +5701,7 @@
     },
     {
         "id": "476",
-        "name": "Tarinorme",
+        "name": "Probopass",
         "type/0": "Rock",
         "type/1": "Steel",
         "hp": "60",
@@ -5713,7 +5713,7 @@
     },
     {
         "id": "477",
-        "name": "Noctunoir",
+        "name": "Dusknoir",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "45",
@@ -5725,7 +5725,7 @@
     },
     {
         "id": "478",
-        "name": "Momartik",
+        "name": "Froslass",
         "type/0": "Ice",
         "type/1": "Ghost",
         "hp": "70",
@@ -5737,7 +5737,7 @@
     },
     {
         "id": "479",
-        "name": "Motisma",
+        "name": "Rotom",
         "type/0": "Electric",
         "type/1": "Ghost",
         "hp": "50",
@@ -5749,7 +5749,7 @@
     },
     {
         "id": "480",
-        "name": "CrÃ©helf",
+        "name": "Uxie",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "75",
@@ -5761,7 +5761,7 @@
     },
     {
         "id": "481",
-        "name": "CrÃ©follet",
+        "name": "Mesprit",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "80",
@@ -5773,7 +5773,7 @@
     },
     {
         "id": "482",
-        "name": "CrÃ©fadet",
+        "name": "Azelf",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "75",
@@ -5929,7 +5929,7 @@
     },
     {
         "id": "495",
-        "name": "VipÃ©lierre",
+        "name": "Snivy",
         "type/0": "Grass",
         "type/1": "",
         "hp": "45",
@@ -5941,7 +5941,7 @@
     },
     {
         "id": "496",
-        "name": "Lianaja",
+        "name": "Servine",
         "type/0": "Grass",
         "type/1": "",
         "hp": "60",
@@ -5953,7 +5953,7 @@
     },
     {
         "id": "497",
-        "name": "Majaspic",
+        "name": "Serperior",
         "type/0": "Grass",
         "type/1": "",
         "hp": "75",
@@ -5965,7 +5965,7 @@
     },
     {
         "id": "498",
-        "name": "Gruikui",
+        "name": "Tepig",
         "type/0": "Fire",
         "type/1": "",
         "hp": "65",
@@ -5977,7 +5977,7 @@
     },
     {
         "id": "499",
-        "name": "Grotichon",
+        "name": "Pignite",
         "type/0": "Fire",
         "type/1": "Fighting",
         "hp": "90",
@@ -5989,7 +5989,7 @@
     },
     {
         "id": "500",
-        "name": "Roitiflam",
+        "name": "Emboar",
         "type/0": "Fire",
         "type/1": "Fighting",
         "hp": "110",
@@ -6001,7 +6001,7 @@
     },
     {
         "id": "501",
-        "name": "Moustillon",
+        "name": "Oshawott",
         "type/0": "Water",
         "type/1": "",
         "hp": "55",
@@ -6013,7 +6013,7 @@
     },
     {
         "id": "502",
-        "name": "Mateloutre",
+        "name": "Dewott",
         "type/0": "Water",
         "type/1": "",
         "hp": "75",
@@ -6025,7 +6025,7 @@
     },
     {
         "id": "503",
-        "name": "Clamiral",
+        "name": "Samurott",
         "type/0": "Water",
         "type/1": "",
         "hp": "95",
@@ -6037,7 +6037,7 @@
     },
     {
         "id": "504",
-        "name": "Ratentif",
+        "name": "Patrat",
         "type/0": "Normal",
         "type/1": "",
         "hp": "45",
@@ -6049,7 +6049,7 @@
     },
     {
         "id": "505",
-        "name": "Miradar",
+        "name": "Watchog",
         "type/0": "Normal",
         "type/1": "",
         "hp": "60",
@@ -6061,7 +6061,7 @@
     },
     {
         "id": "506",
-        "name": "Ponchiot",
+        "name": "Lillipup",
         "type/0": "Normal",
         "type/1": "",
         "hp": "45",
@@ -6073,7 +6073,7 @@
     },
     {
         "id": "507",
-        "name": "Ponchien",
+        "name": "Herdier",
         "type/0": "Normal",
         "type/1": "",
         "hp": "65",
@@ -6085,7 +6085,7 @@
     },
     {
         "id": "508",
-        "name": "Mastouffe",
+        "name": "Stoutland",
         "type/0": "Normal",
         "type/1": "",
         "hp": "85",
@@ -6097,7 +6097,7 @@
     },
     {
         "id": "509",
-        "name": "Chacripan",
+        "name": "Purrloin",
         "type/0": "Dark",
         "type/1": "",
         "hp": "41",
@@ -6109,7 +6109,7 @@
     },
     {
         "id": "510",
-        "name": "LÃ©opardus",
+        "name": "Liepard",
         "type/0": "Dark",
         "type/1": "",
         "hp": "64",
@@ -6121,7 +6121,7 @@
     },
     {
         "id": "511",
-        "name": "Feuillajou",
+        "name": "Pansage",
         "type/0": "Grass",
         "type/1": "",
         "hp": "50",
@@ -6133,7 +6133,7 @@
     },
     {
         "id": "512",
-        "name": "Feuiloutan",
+        "name": "Simisage",
         "type/0": "Grass",
         "type/1": "",
         "hp": "75",
@@ -6145,7 +6145,7 @@
     },
     {
         "id": "513",
-        "name": "Flamajou",
+        "name": "Pansear",
         "type/0": "Fire",
         "type/1": "",
         "hp": "50",
@@ -6157,7 +6157,7 @@
     },
     {
         "id": "514",
-        "name": "Flamoutan",
+        "name": "Simisear",
         "type/0": "Fire",
         "type/1": "",
         "hp": "75",
@@ -6169,7 +6169,7 @@
     },
     {
         "id": "515",
-        "name": "Flotajou",
+        "name": "Panpour",
         "type/0": "Water",
         "type/1": "",
         "hp": "50",
@@ -6181,7 +6181,7 @@
     },
     {
         "id": "516",
-        "name": "Flotoutan",
+        "name": "Simipour",
         "type/0": "Water",
         "type/1": "",
         "hp": "75",
@@ -6205,7 +6205,7 @@
     },
     {
         "id": "518",
-        "name": "Mushana",
+        "name": "Musharna",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "116",
@@ -6217,7 +6217,7 @@
     },
     {
         "id": "519",
-        "name": "Poichigeon",
+        "name": "Pidove",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "50",
@@ -6229,7 +6229,7 @@
     },
     {
         "id": "520",
-        "name": "Colombeau",
+        "name": "Tranquill",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "62",
@@ -6241,7 +6241,7 @@
     },
     {
         "id": "521",
-        "name": "DÃ©flaisan",
+        "name": "Unfezant",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "80",
@@ -6253,7 +6253,7 @@
     },
     {
         "id": "522",
-        "name": "ZÃ©bibron",
+        "name": "Blitzle",
         "type/0": "Electric",
         "type/1": "",
         "hp": "45",
@@ -6265,7 +6265,7 @@
     },
     {
         "id": "523",
-        "name": "ZÃ©blitz",
+        "name": "Zebstrika",
         "type/0": "Electric",
         "type/1": "",
         "hp": "75",
@@ -6277,7 +6277,7 @@
     },
     {
         "id": "524",
-        "name": "Nodulithe",
+        "name": "Roggenrola",
         "type/0": "Rock",
         "type/1": "",
         "hp": "55",
@@ -6289,7 +6289,7 @@
     },
     {
         "id": "525",
-        "name": "GÃ©olithe",
+        "name": "Boldore",
         "type/0": "Rock",
         "type/1": "",
         "hp": "70",
@@ -6301,7 +6301,7 @@
     },
     {
         "id": "526",
-        "name": "Gigalithe",
+        "name": "Gigalith",
         "type/0": "Rock",
         "type/1": "",
         "hp": "85",
@@ -6313,7 +6313,7 @@
     },
     {
         "id": "527",
-        "name": "Chovsourir",
+        "name": "Woobat",
         "type/0": "Psychic",
         "type/1": "Flying",
         "hp": "65",
@@ -6325,7 +6325,7 @@
     },
     {
         "id": "528",
-        "name": "Rhinolove",
+        "name": "Swoobat",
         "type/0": "Psychic",
         "type/1": "Flying",
         "hp": "67",
@@ -6337,7 +6337,7 @@
     },
     {
         "id": "529",
-        "name": "Rototaupe",
+        "name": "Drilbur",
         "type/0": "Ground",
         "type/1": "",
         "hp": "60",
@@ -6349,7 +6349,7 @@
     },
     {
         "id": "530",
-        "name": "Minotaupe",
+        "name": "Excadrill",
         "type/0": "Ground",
         "type/1": "Steel",
         "hp": "110",
@@ -6361,7 +6361,7 @@
     },
     {
         "id": "531",
-        "name": "NanmÃ©ouÃ¯e",
+        "name": "Audino",
         "type/0": "Normal",
         "type/1": "",
         "hp": "103",
@@ -6373,7 +6373,7 @@
     },
     {
         "id": "532",
-        "name": "Charpenti",
+        "name": "Timburr",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "75",
@@ -6385,7 +6385,7 @@
     },
     {
         "id": "533",
-        "name": "Ouvrifier",
+        "name": "Gurdurr",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "85",
@@ -6397,7 +6397,7 @@
     },
     {
         "id": "534",
-        "name": "BÃ©tochef",
+        "name": "Conkeldurr",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "105",
@@ -6409,7 +6409,7 @@
     },
     {
         "id": "535",
-        "name": "Tritonde",
+        "name": "Tympole",
         "type/0": "Water",
         "type/1": "",
         "hp": "50",
@@ -6421,7 +6421,7 @@
     },
     {
         "id": "536",
-        "name": "BatracnÃ©",
+        "name": "Palpitoad",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "75",
@@ -6433,7 +6433,7 @@
     },
     {
         "id": "537",
-        "name": "Crapustule",
+        "name": "Seismitoad",
         "type/0": "Water",
         "type/1": "Ground",
         "hp": "105",
@@ -6445,7 +6445,7 @@
     },
     {
         "id": "538",
-        "name": "Judokrak",
+        "name": "Throh",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "120",
@@ -6457,7 +6457,7 @@
     },
     {
         "id": "539",
-        "name": "KaraclÃ©e",
+        "name": "Sawk",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "75",
@@ -6469,7 +6469,7 @@
     },
     {
         "id": "540",
-        "name": "Larveyette",
+        "name": "Sewaddle",
         "type/0": "Bug",
         "type/1": "Grass",
         "hp": "45",
@@ -6481,7 +6481,7 @@
     },
     {
         "id": "541",
-        "name": "Couverdure",
+        "name": "Swadloon",
         "type/0": "Bug",
         "type/1": "Grass",
         "hp": "55",
@@ -6493,7 +6493,7 @@
     },
     {
         "id": "542",
-        "name": "Manternel",
+        "name": "Leavanny",
         "type/0": "Bug",
         "type/1": "Grass",
         "hp": "75",
@@ -6505,7 +6505,7 @@
     },
     {
         "id": "543",
-        "name": "Venipatte",
+        "name": "Venipede",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "30",
@@ -6517,7 +6517,7 @@
     },
     {
         "id": "544",
-        "name": "Scobolide",
+        "name": "Whirlipede",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "40",
@@ -6529,7 +6529,7 @@
     },
     {
         "id": "545",
-        "name": "Brutapode",
+        "name": "Scolipede",
         "type/0": "Bug",
         "type/1": "Poison",
         "hp": "60",
@@ -6541,7 +6541,7 @@
     },
     {
         "id": "546",
-        "name": "Doudouvet",
+        "name": "Cottonee",
         "type/0": "Grass",
         "type/1": "Fairy",
         "hp": "40",
@@ -6553,7 +6553,7 @@
     },
     {
         "id": "547",
-        "name": "Farfaduvet",
+        "name": "Whimsicott",
         "type/0": "Grass",
         "type/1": "Fairy",
         "hp": "60",
@@ -6565,7 +6565,7 @@
     },
     {
         "id": "548",
-        "name": "Chlorobule",
+        "name": "Petilil",
         "type/0": "Grass",
         "type/1": "",
         "hp": "45",
@@ -6577,7 +6577,7 @@
     },
     {
         "id": "549",
-        "name": "Fragilady",
+        "name": "Lilligant",
         "type/0": "Grass",
         "type/1": "",
         "hp": "70",
@@ -6589,7 +6589,7 @@
     },
     {
         "id": "550",
-        "name": "Bargantua",
+        "name": "Basculin",
         "type/0": "Water",
         "type/1": "",
         "hp": "70",
@@ -6601,7 +6601,7 @@
     },
     {
         "id": "551",
-        "name": "MascaÃ¯man",
+        "name": "Sandile",
         "type/0": "Ground",
         "type/1": "Dark",
         "hp": "50",
@@ -6613,7 +6613,7 @@
     },
     {
         "id": "552",
-        "name": "Escroco",
+        "name": "Krokorok",
         "type/0": "Ground",
         "type/1": "Dark",
         "hp": "60",
@@ -6625,7 +6625,7 @@
     },
     {
         "id": "553",
-        "name": "Crocorible",
+        "name": "Krookodile",
         "type/0": "Ground",
         "type/1": "Dark",
         "hp": "95",
@@ -6637,7 +6637,7 @@
     },
     {
         "id": "554",
-        "name": "Darumarond",
+        "name": "Darumaka",
         "type/0": "Fire",
         "type/1": "",
         "hp": "70",
@@ -6649,7 +6649,7 @@
     },
     {
         "id": "555",
-        "name": "Darumacho",
+        "name": "Darmanitan",
         "type/0": "Fire",
         "type/1": "",
         "hp": "105",
@@ -6661,7 +6661,7 @@
     },
     {
         "id": "556",
-        "name": "Maracachi",
+        "name": "Maractus",
         "type/0": "Grass",
         "type/1": "",
         "hp": "75",
@@ -6673,7 +6673,7 @@
     },
     {
         "id": "557",
-        "name": "Crabicoque",
+        "name": "Dwebble",
         "type/0": "Bug",
         "type/1": "Rock",
         "hp": "50",
@@ -6685,7 +6685,7 @@
     },
     {
         "id": "558",
-        "name": "Crabaraque",
+        "name": "Crustle",
         "type/0": "Bug",
         "type/1": "Rock",
         "hp": "70",
@@ -6697,7 +6697,7 @@
     },
     {
         "id": "559",
-        "name": "Baggiguane",
+        "name": "Scraggy",
         "type/0": "Dark",
         "type/1": "Fighting",
         "hp": "50",
@@ -6709,7 +6709,7 @@
     },
     {
         "id": "560",
-        "name": "BaggaÃ¯d",
+        "name": "Scrafty",
         "type/0": "Dark",
         "type/1": "Fighting",
         "hp": "65",
@@ -6721,7 +6721,7 @@
     },
     {
         "id": "561",
-        "name": "CryptÃ©ro",
+        "name": "Sigilyph",
         "type/0": "Psychic",
         "type/1": "Flying",
         "hp": "72",
@@ -6733,7 +6733,7 @@
     },
     {
         "id": "562",
-        "name": "Tutafeh",
+        "name": "Yamask",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "38",
@@ -6745,7 +6745,7 @@
     },
     {
         "id": "563",
-        "name": "Tutankafer",
+        "name": "Cofagrigus",
         "type/0": "Ghost",
         "type/1": "",
         "hp": "58",
@@ -6757,7 +6757,7 @@
     },
     {
         "id": "564",
-        "name": "Carapagos",
+        "name": "Tirtouga",
         "type/0": "Water",
         "type/1": "Rock",
         "hp": "54",
@@ -6769,7 +6769,7 @@
     },
     {
         "id": "565",
-        "name": "MÃ©gapagos",
+        "name": "Carracosta",
         "type/0": "Water",
         "type/1": "Rock",
         "hp": "74",
@@ -6781,7 +6781,7 @@
     },
     {
         "id": "566",
-        "name": "ArkÃ©apti",
+        "name": "Archen",
         "type/0": "Rock",
         "type/1": "Flying",
         "hp": "55",
@@ -6793,7 +6793,7 @@
     },
     {
         "id": "567",
-        "name": "AÃ©roptÃ©ryx",
+        "name": "Archeops",
         "type/0": "Rock",
         "type/1": "Flying",
         "hp": "75",
@@ -6805,7 +6805,7 @@
     },
     {
         "id": "568",
-        "name": "Miamiasme",
+        "name": "Trubbish",
         "type/0": "Poison",
         "type/1": "",
         "hp": "50",
@@ -6817,7 +6817,7 @@
     },
     {
         "id": "569",
-        "name": "Miasmax",
+        "name": "Garbodor",
         "type/0": "Poison",
         "type/1": "",
         "hp": "80",
@@ -6853,7 +6853,7 @@
     },
     {
         "id": "572",
-        "name": "Chinchidou",
+        "name": "Minccino",
         "type/0": "Normal",
         "type/1": "",
         "hp": "55",
@@ -6865,7 +6865,7 @@
     },
     {
         "id": "573",
-        "name": "Pashmilla",
+        "name": "Cinccino",
         "type/0": "Normal",
         "type/1": "",
         "hp": "75",
@@ -6877,7 +6877,7 @@
     },
     {
         "id": "574",
-        "name": "Scrutella",
+        "name": "Gothita",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "45",
@@ -6889,7 +6889,7 @@
     },
     {
         "id": "575",
-        "name": "MesmÃ©rella",
+        "name": "Gothorita",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "60",
@@ -6901,7 +6901,7 @@
     },
     {
         "id": "576",
-        "name": "SidÃ©rella",
+        "name": "Gothitelle",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "70",
@@ -6913,7 +6913,7 @@
     },
     {
         "id": "577",
-        "name": "NuclÃ©os",
+        "name": "Solosis",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "45",
@@ -6925,7 +6925,7 @@
     },
     {
         "id": "578",
-        "name": "MÃ©ios",
+        "name": "Duosion",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "65",
@@ -6937,7 +6937,7 @@
     },
     {
         "id": "579",
-        "name": "Symbios",
+        "name": "Reuniclus",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "110",
@@ -6949,7 +6949,7 @@
     },
     {
         "id": "580",
-        "name": "Couaneton",
+        "name": "Ducklett",
         "type/0": "Water",
         "type/1": "Flying",
         "hp": "62",
@@ -6961,7 +6961,7 @@
     },
     {
         "id": "581",
-        "name": "LakmÃ©cygne",
+        "name": "Swanna",
         "type/0": "Water",
         "type/1": "Flying",
         "hp": "75",
@@ -6973,7 +6973,7 @@
     },
     {
         "id": "582",
-        "name": "SorbÃ©bÃ©",
+        "name": "Vanillite",
         "type/0": "Ice",
         "type/1": "",
         "hp": "36",
@@ -6985,7 +6985,7 @@
     },
     {
         "id": "583",
-        "name": "Sorboul",
+        "name": "Vanillish",
         "type/0": "Ice",
         "type/1": "",
         "hp": "51",
@@ -6997,7 +6997,7 @@
     },
     {
         "id": "584",
-        "name": "Sorbouboul",
+        "name": "Vanilluxe",
         "type/0": "Ice",
         "type/1": "",
         "hp": "71",
@@ -7009,7 +7009,7 @@
     },
     {
         "id": "585",
-        "name": "Vivaldaim",
+        "name": "Deerling",
         "type/0": "Normal",
         "type/1": "Grass",
         "hp": "60",
@@ -7021,7 +7021,7 @@
     },
     {
         "id": "586",
-        "name": "Haydaim",
+        "name": "Sawsbuck",
         "type/0": "Normal",
         "type/1": "Grass",
         "hp": "80",
@@ -7045,7 +7045,7 @@
     },
     {
         "id": "588",
-        "name": "Carabing",
+        "name": "Karrablast",
         "type/0": "Bug",
         "type/1": "",
         "hp": "50",
@@ -7057,7 +7057,7 @@
     },
     {
         "id": "589",
-        "name": "LanÃ§argot",
+        "name": "Escavalier",
         "type/0": "Bug",
         "type/1": "Steel",
         "hp": "70",
@@ -7069,7 +7069,7 @@
     },
     {
         "id": "590",
-        "name": "Trompignon",
+        "name": "Foongus",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "69",
@@ -7081,7 +7081,7 @@
     },
     {
         "id": "591",
-        "name": "Gaulet",
+        "name": "Amoonguss",
         "type/0": "Grass",
         "type/1": "Poison",
         "hp": "114",
@@ -7093,7 +7093,7 @@
     },
     {
         "id": "592",
-        "name": "Viskuse",
+        "name": "Frillish",
         "type/0": "Water",
         "type/1": "Ghost",
         "hp": "55",
@@ -7105,7 +7105,7 @@
     },
     {
         "id": "593",
-        "name": "Moyade",
+        "name": "Jellicent",
         "type/0": "Water",
         "type/1": "Ghost",
         "hp": "100",
@@ -7117,7 +7117,7 @@
     },
     {
         "id": "594",
-        "name": "Mamanbo",
+        "name": "Alomomola",
         "type/0": "Water",
         "type/1": "",
         "hp": "165",
@@ -7129,7 +7129,7 @@
     },
     {
         "id": "595",
-        "name": "Statitik",
+        "name": "Joltik",
         "type/0": "Bug",
         "type/1": "Electric",
         "hp": "50",
@@ -7141,7 +7141,7 @@
     },
     {
         "id": "596",
-        "name": "Mygavolt",
+        "name": "Galvantula",
         "type/0": "Bug",
         "type/1": "Electric",
         "hp": "70",
@@ -7153,7 +7153,7 @@
     },
     {
         "id": "597",
-        "name": "Grindur",
+        "name": "Ferroseed",
         "type/0": "Grass",
         "type/1": "Steel",
         "hp": "44",
@@ -7165,7 +7165,7 @@
     },
     {
         "id": "598",
-        "name": "Noacier",
+        "name": "Ferrothorn",
         "type/0": "Grass",
         "type/1": "Steel",
         "hp": "74",
@@ -7177,7 +7177,7 @@
     },
     {
         "id": "599",
-        "name": "Tic",
+        "name": "Klink",
         "type/0": "Steel",
         "type/1": "",
         "hp": "40",
@@ -7189,7 +7189,7 @@
     },
     {
         "id": "600",
-        "name": "Clic",
+        "name": "Klang",
         "type/0": "Steel",
         "type/1": "",
         "hp": "60",
@@ -7201,7 +7201,7 @@
     },
     {
         "id": "601",
-        "name": "Cliticlic",
+        "name": "Klinklang",
         "type/0": "Steel",
         "type/1": "",
         "hp": "60",
@@ -7213,7 +7213,7 @@
     },
     {
         "id": "602",
-        "name": "Anchwatt",
+        "name": "Tynamo",
         "type/0": "Electric",
         "type/1": "",
         "hp": "35",
@@ -7225,7 +7225,7 @@
     },
     {
         "id": "603",
-        "name": "LampÃ©roie",
+        "name": "Eelektrik",
         "type/0": "Electric",
         "type/1": "",
         "hp": "65",
@@ -7237,7 +7237,7 @@
     },
     {
         "id": "604",
-        "name": "Ohmassacre",
+        "name": "Eelektross",
         "type/0": "Electric",
         "type/1": "",
         "hp": "85",
@@ -7249,7 +7249,7 @@
     },
     {
         "id": "605",
-        "name": "Lewsor",
+        "name": "Elgyem",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "55",
@@ -7261,7 +7261,7 @@
     },
     {
         "id": "606",
-        "name": "Neitram",
+        "name": "Beheeyem",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "75",
@@ -7273,7 +7273,7 @@
     },
     {
         "id": "607",
-        "name": "FunÃ©cire",
+        "name": "Litwick",
         "type/0": "Ghost",
         "type/1": "Fire",
         "hp": "50",
@@ -7285,7 +7285,7 @@
     },
     {
         "id": "608",
-        "name": "MÃ©lancolux",
+        "name": "Lampent",
         "type/0": "Ghost",
         "type/1": "Fire",
         "hp": "60",
@@ -7297,7 +7297,7 @@
     },
     {
         "id": "609",
-        "name": "Lugulabre",
+        "name": "Chandelure",
         "type/0": "Ghost",
         "type/1": "Fire",
         "hp": "60",
@@ -7309,7 +7309,7 @@
     },
     {
         "id": "610",
-        "name": "Coupenotte",
+        "name": "Axew",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "46",
@@ -7321,7 +7321,7 @@
     },
     {
         "id": "611",
-        "name": "Incisache",
+        "name": "Fraxure",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "66",
@@ -7333,7 +7333,7 @@
     },
     {
         "id": "612",
-        "name": "Tranchodon",
+        "name": "Haxorus",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "76",
@@ -7345,7 +7345,7 @@
     },
     {
         "id": "613",
-        "name": "Polarhume",
+        "name": "Cubchoo",
         "type/0": "Ice",
         "type/1": "",
         "hp": "55",
@@ -7357,7 +7357,7 @@
     },
     {
         "id": "614",
-        "name": "Polagriffe",
+        "name": "Beartic",
         "type/0": "Ice",
         "type/1": "",
         "hp": "95",
@@ -7369,7 +7369,7 @@
     },
     {
         "id": "615",
-        "name": "Hexagel",
+        "name": "Cryogonal",
         "type/0": "Ice",
         "type/1": "",
         "hp": "80",
@@ -7381,7 +7381,7 @@
     },
     {
         "id": "616",
-        "name": "Escargaume",
+        "name": "Shelmet",
         "type/0": "Bug",
         "type/1": "",
         "hp": "50",
@@ -7393,7 +7393,7 @@
     },
     {
         "id": "617",
-        "name": "Limaspeed",
+        "name": "Accelgor",
         "type/0": "Bug",
         "type/1": "",
         "hp": "80",
@@ -7405,7 +7405,7 @@
     },
     {
         "id": "618",
-        "name": "Limonde",
+        "name": "Stunfisk",
         "type/0": "Ground",
         "type/1": "Electric",
         "hp": "109",
@@ -7417,7 +7417,7 @@
     },
     {
         "id": "619",
-        "name": "Kungfouine",
+        "name": "Mienfoo",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "45",
@@ -7429,7 +7429,7 @@
     },
     {
         "id": "620",
-        "name": "Shaofouine",
+        "name": "Mienshao",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "65",
@@ -7441,7 +7441,7 @@
     },
     {
         "id": "621",
-        "name": "Drakkarmin",
+        "name": "Druddigon",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "77",
@@ -7453,7 +7453,7 @@
     },
     {
         "id": "622",
-        "name": "Gringolem",
+        "name": "Golett",
         "type/0": "Ground",
         "type/1": "Ghost",
         "hp": "59",
@@ -7465,7 +7465,7 @@
     },
     {
         "id": "623",
-        "name": "Golemastoc",
+        "name": "Golurk",
         "type/0": "Ground",
         "type/1": "Ghost",
         "hp": "89",
@@ -7477,7 +7477,7 @@
     },
     {
         "id": "624",
-        "name": "Scalpion",
+        "name": "Pawniard",
         "type/0": "Dark",
         "type/1": "Steel",
         "hp": "45",
@@ -7489,7 +7489,7 @@
     },
     {
         "id": "625",
-        "name": "Scalproie",
+        "name": "Bisharp",
         "type/0": "Dark",
         "type/1": "Steel",
         "hp": "65",
@@ -7501,7 +7501,7 @@
     },
     {
         "id": "626",
-        "name": "Frison",
+        "name": "Bouffalant",
         "type/0": "Normal",
         "type/1": "",
         "hp": "95",
@@ -7513,7 +7513,7 @@
     },
     {
         "id": "627",
-        "name": "Furaiglon",
+        "name": "Rufflet",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "70",
@@ -7525,7 +7525,7 @@
     },
     {
         "id": "628",
-        "name": "Gueriaigle",
+        "name": "Braviary",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "100",
@@ -7537,7 +7537,7 @@
     },
     {
         "id": "629",
-        "name": "Vostourno",
+        "name": "Vullaby",
         "type/0": "Dark",
         "type/1": "Flying",
         "hp": "70",
@@ -7549,7 +7549,7 @@
     },
     {
         "id": "630",
-        "name": "Vaututrice",
+        "name": "Mandibuzz",
         "type/0": "Dark",
         "type/1": "Flying",
         "hp": "110",
@@ -7561,7 +7561,7 @@
     },
     {
         "id": "631",
-        "name": "Aflamanoir",
+        "name": "Heatmor",
         "type/0": "Fire",
         "type/1": "",
         "hp": "85",
@@ -7573,7 +7573,7 @@
     },
     {
         "id": "632",
-        "name": "Fermite",
+        "name": "Durant",
         "type/0": "Bug",
         "type/1": "Steel",
         "hp": "58",
@@ -7585,7 +7585,7 @@
     },
     {
         "id": "633",
-        "name": "Solochi",
+        "name": "Deino",
         "type/0": "Dark",
         "type/1": "Dragon",
         "hp": "52",
@@ -7597,7 +7597,7 @@
     },
     {
         "id": "634",
-        "name": "Diamat",
+        "name": "Zweilous",
         "type/0": "Dark",
         "type/1": "Dragon",
         "hp": "72",
@@ -7609,7 +7609,7 @@
     },
     {
         "id": "635",
-        "name": "Trioxhydre",
+        "name": "Hydreigon",
         "type/0": "Dark",
         "type/1": "Dragon",
         "hp": "92",
@@ -7621,7 +7621,7 @@
     },
     {
         "id": "636",
-        "name": "Pyronille",
+        "name": "Larvesta",
         "type/0": "Bug",
         "type/1": "Fire",
         "hp": "55",
@@ -7633,7 +7633,7 @@
     },
     {
         "id": "637",
-        "name": "Pyrax",
+        "name": "Volcarona",
         "type/0": "Bug",
         "type/1": "Fire",
         "hp": "85",
@@ -7645,7 +7645,7 @@
     },
     {
         "id": "638",
-        "name": "Cobaltium",
+        "name": "Cobalion",
         "type/0": "Steel",
         "type/1": "Fighting",
         "hp": "91",
@@ -7657,7 +7657,7 @@
     },
     {
         "id": "639",
-        "name": "Terrakium",
+        "name": "Terrakion",
         "type/0": "Rock",
         "type/1": "Fighting",
         "hp": "91",
@@ -7669,7 +7669,7 @@
     },
     {
         "id": "640",
-        "name": "Viridium",
+        "name": "Virizion",
         "type/0": "Grass",
         "type/1": "Fighting",
         "hp": "91",
@@ -7681,7 +7681,7 @@
     },
     {
         "id": "641",
-        "name": "BorÃ©as",
+        "name": "Tornadus",
         "type/0": "Flying",
         "type/1": "",
         "hp": "79",
@@ -7693,7 +7693,7 @@
     },
     {
         "id": "642",
-        "name": "Fulguris",
+        "name": "Thundurus",
         "type/0": "Electric",
         "type/1": "Flying",
         "hp": "79",
@@ -7729,7 +7729,7 @@
     },
     {
         "id": "645",
-        "name": "DÃ©mÃ©tÃ©ros",
+        "name": "Landorus",
         "type/0": "Ground",
         "type/1": "Flying",
         "hp": "89",
@@ -7789,7 +7789,7 @@
     },
     {
         "id": "650",
-        "name": "Marisson",
+        "name": "Chespin",
         "type/0": "Grass",
         "type/1": "",
         "hp": "56",
@@ -7801,7 +7801,7 @@
     },
     {
         "id": "651",
-        "name": "BoguÃ©risse",
+        "name": "Quilladin",
         "type/0": "Grass",
         "type/1": "",
         "hp": "61",
@@ -7813,7 +7813,7 @@
     },
     {
         "id": "652",
-        "name": "BlindÃ©pique",
+        "name": "Chesnaught",
         "type/0": "Grass",
         "type/1": "Fighting",
         "hp": "88",
@@ -7825,7 +7825,7 @@
     },
     {
         "id": "653",
-        "name": "Feunnec",
+        "name": "Fennekin",
         "type/0": "Fire",
         "type/1": "",
         "hp": "40",
@@ -7837,7 +7837,7 @@
     },
     {
         "id": "654",
-        "name": "Roussil",
+        "name": "Braixen",
         "type/0": "Fire",
         "type/1": "",
         "hp": "59",
@@ -7849,7 +7849,7 @@
     },
     {
         "id": "655",
-        "name": "Goupelin",
+        "name": "Delphox",
         "type/0": "Fire",
         "type/1": "Psychic",
         "hp": "75",
@@ -7861,7 +7861,7 @@
     },
     {
         "id": "656",
-        "name": "Grenousse",
+        "name": "Froakie",
         "type/0": "Water",
         "type/1": "",
         "hp": "41",
@@ -7873,7 +7873,7 @@
     },
     {
         "id": "657",
-        "name": "CroÃ¢poral",
+        "name": "Frogadier",
         "type/0": "Water",
         "type/1": "",
         "hp": "54",
@@ -7885,7 +7885,7 @@
     },
     {
         "id": "658",
-        "name": "Amphinobi",
+        "name": "Greninja",
         "type/0": "Water",
         "type/1": "Dark",
         "hp": "72",
@@ -7897,7 +7897,7 @@
     },
     {
         "id": "659",
-        "name": "Sapereau",
+        "name": "Bunnelby",
         "type/0": "Normal",
         "type/1": "",
         "hp": "38",
@@ -7909,7 +7909,7 @@
     },
     {
         "id": "660",
-        "name": "Excavarenne",
+        "name": "Diggersby",
         "type/0": "Normal",
         "type/1": "Ground",
         "hp": "85",
@@ -7921,7 +7921,7 @@
     },
     {
         "id": "661",
-        "name": "Passerouge",
+        "name": "Fletchling",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "45",
@@ -7933,7 +7933,7 @@
     },
     {
         "id": "662",
-        "name": "Braisillon",
+        "name": "Fletchinder",
         "type/0": "Fire",
         "type/1": "Flying",
         "hp": "62",
@@ -7945,7 +7945,7 @@
     },
     {
         "id": "663",
-        "name": "Flambusard",
+        "name": "Talonflame",
         "type/0": "Fire",
         "type/1": "Flying",
         "hp": "78",
@@ -7957,7 +7957,7 @@
     },
     {
         "id": "664",
-        "name": "LÃ©pidonille",
+        "name": "Scatterbug",
         "type/0": "Bug",
         "type/1": "",
         "hp": "38",
@@ -7969,7 +7969,7 @@
     },
     {
         "id": "665",
-        "name": "PÃ©rÃ©grain",
+        "name": "Spewpa",
         "type/0": "Bug",
         "type/1": "",
         "hp": "45",
@@ -7981,7 +7981,7 @@
     },
     {
         "id": "666",
-        "name": "Prismillon",
+        "name": "Vivillon",
         "type/0": "Bug",
         "type/1": "Flying",
         "hp": "80",
@@ -7993,7 +7993,7 @@
     },
     {
         "id": "667",
-        "name": "HÃ©lionceau",
+        "name": "Litleo",
         "type/0": "Fire",
         "type/1": "Normal",
         "hp": "62",
@@ -8005,7 +8005,7 @@
     },
     {
         "id": "668",
-        "name": "NÃ©mÃ©lios",
+        "name": "Pyroar",
         "type/0": "Fire",
         "type/1": "Normal",
         "hp": "86",
@@ -8029,7 +8029,7 @@
     },
     {
         "id": "670",
-        "name": "FLOETTE",
+        "name": "Floette",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "54",
@@ -8053,7 +8053,7 @@
     },
     {
         "id": "672",
-        "name": "Cabriolaine",
+        "name": "Skiddo",
         "type/0": "Grass",
         "type/1": "",
         "hp": "66",
@@ -8065,7 +8065,7 @@
     },
     {
         "id": "673",
-        "name": "Chevroum",
+        "name": "Gogoat",
         "type/0": "Grass",
         "type/1": "",
         "hp": "123",
@@ -8077,7 +8077,7 @@
     },
     {
         "id": "674",
-        "name": "PandespiÃ¨gle",
+        "name": "Pancham",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "67",
@@ -8089,7 +8089,7 @@
     },
     {
         "id": "675",
-        "name": "Pandarbare",
+        "name": "Pangoro",
         "type/0": "Fighting",
         "type/1": "Dark",
         "hp": "95",
@@ -8101,7 +8101,7 @@
     },
     {
         "id": "676",
-        "name": "Couafarel",
+        "name": "Furfrou",
         "type/0": "Normal",
         "type/1": "",
         "hp": "75",
@@ -8113,7 +8113,7 @@
     },
     {
         "id": "677",
-        "name": "Psystigri",
+        "name": "Espurr",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "62",
@@ -8125,7 +8125,7 @@
     },
     {
         "id": "678",
-        "name": "Mistigrix",
+        "name": "Meowstic",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "74",
@@ -8137,7 +8137,7 @@
     },
     {
         "id": "679",
-        "name": "Monorpale",
+        "name": "Honedge",
         "type/0": "Steel",
         "type/1": "Ghost",
         "hp": "45",
@@ -8149,7 +8149,7 @@
     },
     {
         "id": "680",
-        "name": "DimoclÃ¨s",
+        "name": "Doublade",
         "type/0": "Steel",
         "type/1": "Ghost",
         "hp": "59",
@@ -8161,7 +8161,7 @@
     },
     {
         "id": "681",
-        "name": "Exagide",
+        "name": "Aegislash",
         "type/0": "Steel",
         "type/1": "Ghost",
         "hp": "60",
@@ -8173,7 +8173,7 @@
     },
     {
         "id": "682",
-        "name": "Fluvetin",
+        "name": "Spritzee",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "78",
@@ -8185,7 +8185,7 @@
     },
     {
         "id": "683",
-        "name": "Cocotine",
+        "name": "Aromatisse",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "101",
@@ -8197,7 +8197,7 @@
     },
     {
         "id": "684",
-        "name": "Sucroquin",
+        "name": "Swirlix",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "62",
@@ -8209,7 +8209,7 @@
     },
     {
         "id": "685",
-        "name": "Cupcanaille",
+        "name": "Slurpuff",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "82",
@@ -8221,7 +8221,7 @@
     },
     {
         "id": "686",
-        "name": "Sepiatop",
+        "name": "Inkay",
         "type/0": "Dark",
         "type/1": "Psychic",
         "hp": "53",
@@ -8233,7 +8233,7 @@
     },
     {
         "id": "687",
-        "name": "Sepiatroce",
+        "name": "Malamar",
         "type/0": "Dark",
         "type/1": "Psychic",
         "hp": "86",
@@ -8245,7 +8245,7 @@
     },
     {
         "id": "688",
-        "name": "Opermine",
+        "name": "Binacle",
         "type/0": "Rock",
         "type/1": "Water",
         "hp": "42",
@@ -8257,7 +8257,7 @@
     },
     {
         "id": "689",
-        "name": "Golgopathe",
+        "name": "Barbaracle",
         "type/0": "Rock",
         "type/1": "Water",
         "hp": "72",
@@ -8269,7 +8269,7 @@
     },
     {
         "id": "690",
-        "name": "Venalgue",
+        "name": "Skrelp",
         "type/0": "Poison",
         "type/1": "Water",
         "hp": "50",
@@ -8281,7 +8281,7 @@
     },
     {
         "id": "691",
-        "name": "Kravarech",
+        "name": "Dragalge",
         "type/0": "Poison",
         "type/1": "Dragon",
         "hp": "65",
@@ -8293,7 +8293,7 @@
     },
     {
         "id": "692",
-        "name": "Flingouste",
+        "name": "Clauncher",
         "type/0": "Water",
         "type/1": "",
         "hp": "50",
@@ -8305,7 +8305,7 @@
     },
     {
         "id": "693",
-        "name": "Gamblast",
+        "name": "Clawitzer",
         "type/0": "Water",
         "type/1": "",
         "hp": "71",
@@ -8317,7 +8317,7 @@
     },
     {
         "id": "694",
-        "name": "Galvaran",
+        "name": "Helioptile",
         "type/0": "Electric",
         "type/1": "Normal",
         "hp": "44",
@@ -8329,7 +8329,7 @@
     },
     {
         "id": "695",
-        "name": "Iguolta",
+        "name": "Heliolisk",
         "type/0": "Electric",
         "type/1": "Normal",
         "hp": "62",
@@ -8341,7 +8341,7 @@
     },
     {
         "id": "696",
-        "name": "Ptyranidur",
+        "name": "Tyrunt",
         "type/0": "Rock",
         "type/1": "Dragon",
         "hp": "58",
@@ -8353,7 +8353,7 @@
     },
     {
         "id": "697",
-        "name": "Rexillius",
+        "name": "Tyrantrum",
         "type/0": "Rock",
         "type/1": "Dragon",
         "hp": "82",
@@ -8365,7 +8365,7 @@
     },
     {
         "id": "698",
-        "name": "Amagara",
+        "name": "Amaura",
         "type/0": "Rock",
         "type/1": "Ice",
         "hp": "77",
@@ -8377,7 +8377,7 @@
     },
     {
         "id": "699",
-        "name": "Dragmara",
+        "name": "Aurorus",
         "type/0": "Rock",
         "type/1": "Ice",
         "hp": "123",
@@ -8389,7 +8389,7 @@
     },
     {
         "id": "700",
-        "name": "Nymphali",
+        "name": "Sylveon",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "95",
@@ -8401,7 +8401,7 @@
     },
     {
         "id": "701",
-        "name": "BrutalibrÃ©",
+        "name": "Hawlucha",
         "type/0": "Fighting",
         "type/1": "Flying",
         "hp": "78",
@@ -8413,7 +8413,7 @@
     },
     {
         "id": "702",
-        "name": "DEDENNE",
+        "name": "Dedenne",
         "type/0": "Electric",
         "type/1": "Fairy",
         "hp": "67",
@@ -8425,7 +8425,7 @@
     },
     {
         "id": "703",
-        "name": "Strassie",
+        "name": "Carbink",
         "type/0": "Rock",
         "type/1": "Fairy",
         "hp": "50",
@@ -8437,7 +8437,7 @@
     },
     {
         "id": "704",
-        "name": "Mucuscule",
+        "name": "Goomy",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "45",
@@ -8449,7 +8449,7 @@
     },
     {
         "id": "705",
-        "name": "Colimucus",
+        "name": "Sliggoo",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "68",
@@ -8461,7 +8461,7 @@
     },
     {
         "id": "706",
-        "name": "Muplodocus",
+        "name": "Goodra",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "90",
@@ -8473,7 +8473,7 @@
     },
     {
         "id": "707",
-        "name": "Trousselin",
+        "name": "Klefki",
         "type/0": "Steel",
         "type/1": "Fairy",
         "hp": "57",
@@ -8485,7 +8485,7 @@
     },
     {
         "id": "708",
-        "name": "BrocÃ©lÃ´me",
+        "name": "Phantump",
         "type/0": "Ghost",
         "type/1": "Grass",
         "hp": "43",
@@ -8497,7 +8497,7 @@
     },
     {
         "id": "709",
-        "name": "DessÃ©liande",
+        "name": "Trevenant",
         "type/0": "Ghost",
         "type/1": "Grass",
         "hp": "85",
@@ -8509,7 +8509,7 @@
     },
     {
         "id": "710",
-        "name": "Pitrouille",
+        "name": "Pumpkaboo",
         "type/0": "Ghost",
         "type/1": "Grass",
         "hp": "59",
@@ -8521,7 +8521,7 @@
     },
     {
         "id": "711",
-        "name": "Banshitrouye",
+        "name": "Gourgeist",
         "type/0": "Ghost",
         "type/1": "Grass",
         "hp": "85",
@@ -8533,7 +8533,7 @@
     },
     {
         "id": "712",
-        "name": "GrelaÃ§on",
+        "name": "Bergmite",
         "type/0": "Ice",
         "type/1": "",
         "hp": "55",
@@ -8545,7 +8545,7 @@
     },
     {
         "id": "713",
-        "name": "SÃ©racrawl",
+        "name": "Avalugg",
         "type/0": "Ice",
         "type/1": "",
         "hp": "95",
@@ -8557,7 +8557,7 @@
     },
     {
         "id": "714",
-        "name": "Sonistrelle",
+        "name": "Noibat",
         "type/0": "Flying",
         "type/1": "Dragon",
         "hp": "40",
@@ -8569,7 +8569,7 @@
     },
     {
         "id": "715",
-        "name": "Bruyverne",
+        "name": "Noivern",
         "type/0": "Flying",
         "type/1": "Dragon",
         "hp": "85",
@@ -8653,7 +8653,7 @@
     },
     {
         "id": "722",
-        "name": "Brindibou",
+        "name": "Rowlet",
         "type/0": "Grass",
         "type/1": "Flying",
         "hp": "68",
@@ -8665,7 +8665,7 @@
     },
     {
         "id": "723",
-        "name": "EfflÃ¨che",
+        "name": "Dartrix",
         "type/0": "Grass",
         "type/1": "Flying",
         "hp": "78",
@@ -8677,7 +8677,7 @@
     },
     {
         "id": "724",
-        "name": "ArchÃ©duc",
+        "name": "Decidueye",
         "type/0": "Grass",
         "type/1": "Ghost",
         "hp": "78",
@@ -8689,7 +8689,7 @@
     },
     {
         "id": "725",
-        "name": "Flamiaou",
+        "name": "Litten",
         "type/0": "Fire",
         "type/1": "",
         "hp": "45",
@@ -8701,7 +8701,7 @@
     },
     {
         "id": "726",
-        "name": "Matoufeu",
+        "name": "Torracat",
         "type/0": "Fire",
         "type/1": "",
         "hp": "65",
@@ -8713,7 +8713,7 @@
     },
     {
         "id": "727",
-        "name": "FÃ©linferno",
+        "name": "Incineroar",
         "type/0": "Fire",
         "type/1": "Dark",
         "hp": "95",
@@ -8725,7 +8725,7 @@
     },
     {
         "id": "728",
-        "name": "Otaquin",
+        "name": "Popplio",
         "type/0": "Water",
         "type/1": "",
         "hp": "50",
@@ -8737,7 +8737,7 @@
     },
     {
         "id": "729",
-        "name": "Otarlette",
+        "name": "Brionne",
         "type/0": "Water",
         "type/1": "",
         "hp": "60",
@@ -8749,7 +8749,7 @@
     },
     {
         "id": "730",
-        "name": "Oratoria",
+        "name": "Primarina",
         "type/0": "Water",
         "type/1": "Fairy",
         "hp": "80",
@@ -8761,7 +8761,7 @@
     },
     {
         "id": "731",
-        "name": "Picassaut",
+        "name": "Pikipek",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "35",
@@ -8773,7 +8773,7 @@
     },
     {
         "id": "732",
-        "name": "Piclairon",
+        "name": "Trumbeak",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "55",
@@ -8785,7 +8785,7 @@
     },
     {
         "id": "733",
-        "name": "Bazoucan",
+        "name": "Toucannon",
         "type/0": "Normal",
         "type/1": "Flying",
         "hp": "80",
@@ -8797,7 +8797,7 @@
     },
     {
         "id": "734",
-        "name": "Manglouton",
+        "name": "Yungoos",
         "type/0": "Normal",
         "type/1": "",
         "hp": "48",
@@ -8809,7 +8809,7 @@
     },
     {
         "id": "735",
-        "name": "Argouste",
+        "name": "Gumshoos",
         "type/0": "Normal",
         "type/1": "",
         "hp": "88",
@@ -8821,7 +8821,7 @@
     },
     {
         "id": "736",
-        "name": "Larvibule",
+        "name": "Grubbin",
         "type/0": "Bug",
         "type/1": "",
         "hp": "47",
@@ -8833,7 +8833,7 @@
     },
     {
         "id": "737",
-        "name": "Chrysapile",
+        "name": "Charjabug",
         "type/0": "Bug",
         "type/1": "Electric",
         "hp": "57",
@@ -8845,7 +8845,7 @@
     },
     {
         "id": "738",
-        "name": "Lucanon",
+        "name": "Vikavolt",
         "type/0": "Bug",
         "type/1": "Electric",
         "hp": "77",
@@ -8857,7 +8857,7 @@
     },
     {
         "id": "739",
-        "name": "Crabagarre",
+        "name": "Crabrawler",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "47",
@@ -8881,7 +8881,7 @@
     },
     {
         "id": "741",
-        "name": "Plumeline",
+        "name": "Oricorio",
         "type/0": "Fire",
         "type/1": "Flying",
         "hp": "75",
@@ -8893,7 +8893,7 @@
     },
     {
         "id": "742",
-        "name": "Bombydou",
+        "name": "Cutiefly",
         "type/0": "Bug",
         "type/1": "Fairy",
         "hp": "40",
@@ -8905,7 +8905,7 @@
     },
     {
         "id": "743",
-        "name": "Rubombelle",
+        "name": "Ribombee",
         "type/0": "Bug",
         "type/1": "Fairy",
         "hp": "60",
@@ -8917,7 +8917,7 @@
     },
     {
         "id": "744",
-        "name": "Rocabot",
+        "name": "Rockruff",
         "type/0": "Rock",
         "type/1": "",
         "hp": "45",
@@ -8929,7 +8929,7 @@
     },
     {
         "id": "745",
-        "name": "Lougaroc",
+        "name": "Lycanroc",
         "type/0": "Rock",
         "type/1": "",
         "hp": "75",
@@ -8941,7 +8941,7 @@
     },
     {
         "id": "746",
-        "name": "Froussardine",
+        "name": "Wishiwashi",
         "type/0": "Water",
         "type/1": "",
         "hp": "45",
@@ -8953,7 +8953,7 @@
     },
     {
         "id": "747",
-        "name": "VorastÃ©rie",
+        "name": "Mareanie",
         "type/0": "Poison",
         "type/1": "Water",
         "hp": "50",
@@ -8965,7 +8965,7 @@
     },
     {
         "id": "748",
-        "name": "PrÃ©dastÃ©rie",
+        "name": "Toxapex",
         "type/0": "Poison",
         "type/1": "Water",
         "hp": "50",
@@ -8977,7 +8977,7 @@
     },
     {
         "id": "749",
-        "name": "Tiboudet",
+        "name": "Mudbray",
         "type/0": "Ground",
         "type/1": "",
         "hp": "70",
@@ -8989,7 +8989,7 @@
     },
     {
         "id": "750",
-        "name": "Bourrinos",
+        "name": "Mudsdale",
         "type/0": "Ground",
         "type/1": "",
         "hp": "100",
@@ -9001,7 +9001,7 @@
     },
     {
         "id": "751",
-        "name": "Araqua",
+        "name": "Dewpider",
         "type/0": "Water",
         "type/1": "Bug",
         "hp": "38",
@@ -9013,7 +9013,7 @@
     },
     {
         "id": "752",
-        "name": "Tarenbulle",
+        "name": "Araquanid",
         "type/0": "Water",
         "type/1": "Bug",
         "hp": "68",
@@ -9025,7 +9025,7 @@
     },
     {
         "id": "753",
-        "name": "Mimantis",
+        "name": "Fomantis",
         "type/0": "Grass",
         "type/1": "",
         "hp": "40",
@@ -9037,7 +9037,7 @@
     },
     {
         "id": "754",
-        "name": "Floramantis",
+        "name": "Lurantis",
         "type/0": "Grass",
         "type/1": "",
         "hp": "70",
@@ -9049,7 +9049,7 @@
     },
     {
         "id": "755",
-        "name": "Spododo",
+        "name": "Morelull",
         "type/0": "Grass",
         "type/1": "Fairy",
         "hp": "40",
@@ -9061,7 +9061,7 @@
     },
     {
         "id": "756",
-        "name": "Lampignon",
+        "name": "Shiinotic",
         "type/0": "Grass",
         "type/1": "Fairy",
         "hp": "60",
@@ -9073,7 +9073,7 @@
     },
     {
         "id": "757",
-        "name": "Tritox",
+        "name": "Salandit",
         "type/0": "Poison",
         "type/1": "Fire",
         "hp": "48",
@@ -9085,7 +9085,7 @@
     },
     {
         "id": "758",
-        "name": "Malamandre",
+        "name": "Salazzle",
         "type/0": "Poison",
         "type/1": "Fire",
         "hp": "68",
@@ -9097,7 +9097,7 @@
     },
     {
         "id": "759",
-        "name": "Nounourson",
+        "name": "Stufful",
         "type/0": "Normal",
         "type/1": "Fighting",
         "hp": "70",
@@ -9109,7 +9109,7 @@
     },
     {
         "id": "760",
-        "name": "Chelours",
+        "name": "Bewear",
         "type/0": "Normal",
         "type/1": "Fighting",
         "hp": "120",
@@ -9121,7 +9121,7 @@
     },
     {
         "id": "761",
-        "name": "Croquine",
+        "name": "Bounsweet",
         "type/0": "Grass",
         "type/1": "",
         "hp": "42",
@@ -9133,7 +9133,7 @@
     },
     {
         "id": "762",
-        "name": "Candine",
+        "name": "Steenee",
         "type/0": "Grass",
         "type/1": "",
         "hp": "52",
@@ -9145,7 +9145,7 @@
     },
     {
         "id": "763",
-        "name": "Sucreine",
+        "name": "Tsareena",
         "type/0": "Grass",
         "type/1": "",
         "hp": "72",
@@ -9157,7 +9157,7 @@
     },
     {
         "id": "764",
-        "name": "GuÃ©rilande",
+        "name": "Comfey",
         "type/0": "Fairy",
         "type/1": "",
         "hp": "51",
@@ -9169,7 +9169,7 @@
     },
     {
         "id": "765",
-        "name": "Gouroutan",
+        "name": "Oranguru",
         "type/0": "Normal",
         "type/1": "Psychic",
         "hp": "90",
@@ -9181,7 +9181,7 @@
     },
     {
         "id": "766",
-        "name": "Quartermac",
+        "name": "Passimian",
         "type/0": "Fighting",
         "type/1": "",
         "hp": "100",
@@ -9193,7 +9193,7 @@
     },
     {
         "id": "767",
-        "name": "Sovkipou",
+        "name": "Wimpod",
         "type/0": "Bug",
         "type/1": "Water",
         "hp": "25",
@@ -9205,7 +9205,7 @@
     },
     {
         "id": "768",
-        "name": "SarmuraÃ¯",
+        "name": "Golisopod",
         "type/0": "Bug",
         "type/1": "Water",
         "hp": "75",
@@ -9217,7 +9217,7 @@
     },
     {
         "id": "769",
-        "name": "Bacabouh",
+        "name": "Sandygast",
         "type/0": "Ghost",
         "type/1": "Ground",
         "hp": "55",
@@ -9229,7 +9229,7 @@
     },
     {
         "id": "770",
-        "name": "TrÃ©passable",
+        "name": "Palossand",
         "type/0": "Ghost",
         "type/1": "Ground",
         "hp": "85",
@@ -9241,7 +9241,7 @@
     },
     {
         "id": "771",
-        "name": "Concombaffe",
+        "name": "Pyukumuku",
         "type/0": "Water",
         "type/1": "",
         "hp": "55",
@@ -9253,7 +9253,7 @@
     },
     {
         "id": "772",
-        "name": "SilvalliÃ©",
+        "name": "Type: Null",
         "type/0": "Normal",
         "type/1": "",
         "hp": "95",
@@ -9265,7 +9265,7 @@
     },
     {
         "id": "773",
-        "name": "MÃ©tÃ©no",
+        "name": "Silvally",
         "type/0": "Normal",
         "type/1": "",
         "hp": "95",
@@ -9277,7 +9277,7 @@
     },
     {
         "id": "774",
-        "name": "Dodoala",
+        "name": "Minior",
         "type/0": "Rock",
         "type/1": "Flying",
         "hp": "60",
@@ -9289,7 +9289,7 @@
     },
     {
         "id": "775",
-        "name": "Boumata",
+        "name": "Komala",
         "type/0": "Normal",
         "type/1": "",
         "hp": "65",
@@ -9301,7 +9301,7 @@
     },
     {
         "id": "776",
-        "name": "Togedemaru",
+        "name": "Turtonator",
         "type/0": "Fire",
         "type/1": "Dragon",
         "hp": "60",
@@ -9313,7 +9313,7 @@
     },
     {
         "id": "777",
-        "name": "Mimiqui",
+        "name": "Togedemaru",
         "type/0": "Electric",
         "type/1": "Steel",
         "hp": "65",
@@ -9325,7 +9325,7 @@
     },
     {
         "id": "778",
-        "name": "Denticrisse",
+        "name": "Mimikyu",
         "type/0": "Ghost",
         "type/1": "Fairy",
         "hp": "55",
@@ -9337,7 +9337,7 @@
     },
     {
         "id": "779",
-        "name": "DraÃ¯eul",
+        "name": "Bruxish",
         "type/0": "Water",
         "type/1": "Psychic",
         "hp": "68",
@@ -9349,7 +9349,7 @@
     },
     {
         "id": "780",
-        "name": "Sinistrail",
+        "name": "Drampa",
         "type/0": "Normal",
         "type/1": "Dragon",
         "hp": "78",
@@ -9361,7 +9361,7 @@
     },
     {
         "id": "781",
-        "name": "BÃ©bÃ©caille",
+        "name": "Dhelmise",
         "type/0": "Ghost",
         "type/1": "Grass",
         "hp": "70",
@@ -9373,7 +9373,7 @@
     },
     {
         "id": "782",
-        "name": "Ã‰caÃ¯d",
+        "name": "Jangmo-o",
         "type/0": "Dragon",
         "type/1": "",
         "hp": "45",
@@ -9385,7 +9385,7 @@
     },
     {
         "id": "783",
-        "name": "Ã‰kaÃ¯ser",
+        "name": "Hakamo-o",
         "type/0": "Dragon",
         "type/1": "Fighting",
         "hp": "55",
@@ -9397,7 +9397,7 @@
     },
     {
         "id": "784",
-        "name": "Tokorico",
+        "name": "Kommo-o",
         "type/0": "Dragon",
         "type/1": "Fighting",
         "hp": "75",
@@ -9409,7 +9409,7 @@
     },
     {
         "id": "785",
-        "name": "Tokopiyon",
+        "name": "Tapu Koko",
         "type/0": "Electric",
         "type/1": "Fairy",
         "hp": "70",
@@ -9421,7 +9421,7 @@
     },
     {
         "id": "786",
-        "name": "Tokotoro",
+        "name": "Tapu Lele",
         "type/0": "Psychic",
         "type/1": "Fairy",
         "hp": "70",
@@ -9433,7 +9433,7 @@
     },
     {
         "id": "787",
-        "name": "Tokopisco",
+        "name": "Tapu Bulu",
         "type/0": "Grass",
         "type/1": "Fairy",
         "hp": "70",
@@ -9445,7 +9445,7 @@
     },
     {
         "id": "788",
-        "name": "Cosmog",
+        "name": "Tapu Fini",
         "type/0": "Water",
         "type/1": "Fairy",
         "hp": "70",
@@ -9457,7 +9457,7 @@
     },
     {
         "id": "789",
-        "name": "Cosmovum",
+        "name": "Cosmog",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "43",
@@ -9469,7 +9469,7 @@
     },
     {
         "id": "790",
-        "name": "Solgaleo",
+        "name": "Cosmoem",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "43",
@@ -9481,7 +9481,7 @@
     },
     {
         "id": "791",
-        "name": "Lunala",
+        "name": "Solgaleo",
         "type/0": "Psychic",
         "type/1": "Steel",
         "hp": "137",
@@ -9493,7 +9493,7 @@
     },
     {
         "id": "792",
-        "name": "ZÃ©roÃ¯d",
+        "name": "Lunala",
         "type/0": "Psychic",
         "type/1": "Ghost",
         "hp": "137",
@@ -9505,7 +9505,7 @@
     },
     {
         "id": "793",
-        "name": "Mouscoto",
+        "name": "Nihilego",
         "type/0": "Rock",
         "type/1": "Poison",
         "hp": "109",
@@ -9517,7 +9517,7 @@
     },
     {
         "id": "794",
-        "name": "Cancrelove",
+        "name": "Buzzwole",
         "type/0": "Bug",
         "type/1": "Fighting",
         "hp": "107",
@@ -9529,7 +9529,7 @@
     },
     {
         "id": "795",
-        "name": "CÃ¢blifÃ¨re",
+        "name": "Pheromosa",
         "type/0": "Bug",
         "type/1": "Fighting",
         "hp": "71",
@@ -9541,7 +9541,7 @@
     },
     {
         "id": "796",
-        "name": "Bamboiselle",
+        "name": "Xurkitree",
         "type/0": "Electric",
         "type/1": "",
         "hp": "83",
@@ -9553,7 +9553,7 @@
     },
     {
         "id": "797",
-        "name": "Katagami",
+        "name": "Celesteela",
         "type/0": "Steel",
         "type/1": "Flying",
         "hp": "97",
@@ -9565,7 +9565,7 @@
     },
     {
         "id": "798",
-        "name": "Engloutyran",
+        "name": "Kartana",
         "type/0": "Grass",
         "type/1": "Steel",
         "hp": "59",
@@ -9577,7 +9577,7 @@
     },
     {
         "id": "799",
-        "name": "Necrozma",
+        "name": "Guzzlord",
         "type/0": "Dark",
         "type/1": "Dragon",
         "hp": "223",
@@ -9589,7 +9589,7 @@
     },
     {
         "id": "800",
-        "name": "Magearna",
+        "name": "Necrozma",
         "type/0": "Psychic",
         "type/1": "",
         "hp": "97",
@@ -9601,7 +9601,7 @@
     },
     {
         "id": "801",
-        "name": "Marshadow",
+        "name": "Magearna",
         "type/0": "Steel",
         "type/1": "Fairy",
         "hp": "80",
@@ -9613,7 +9613,7 @@
     },
     {
         "id": "802",
-        "name": "VÃ©mini",
+        "name": "Marshadow",
         "type/0": "Fighting",
         "type/1": "Ghost",
         "hp": "90",
@@ -9625,7 +9625,7 @@
     },
     {
         "id": "803",
-        "name": "Mandrillon",
+        "name": "Poipole",
         "type/0": "Poison",
         "type/1": "",
         "hp": "67",
@@ -9637,7 +9637,7 @@
     },
     {
         "id": "804",
-        "name": "Ama-Ama",
+        "name": "Naganadel",
         "type/0": "Poison",
         "type/1": "Dragon",
         "hp": "73",
@@ -9649,7 +9649,7 @@
     },
     {
         "id": "805",
-        "name": "Pierroteknik",
+        "name": "Stakataka",
         "type/0": "Rock",
         "type/1": "Steel",
         "hp": "61",
@@ -9661,7 +9661,7 @@
     },
     {
         "id": "806",
-        "name": "Zeraora",
+        "name": "Blacephalon",
         "type/0": "Fire",
         "type/1": "Ghost",
         "hp": "53",
@@ -9673,7 +9673,7 @@
     },
     {
         "id": "807",
-        "name": "Meltan",
+        "name": "Zeraora",
         "type/0": "Electric",
         "type/1": "",
         "hp": "88",
@@ -9685,7 +9685,7 @@
     },
     {
         "id": "808",
-        "name": "Melmetal",
+        "name": "Meltan",
         "type/0": "Steel",
         "type/1": "",
         "hp": "46",
@@ -9697,7 +9697,7 @@
     },
     {
         "id": "809",
-        "name": "",
+        "name": "Melmetal",
         "type/0": "Steel",
         "type/1": "",
         "hp": "135",
