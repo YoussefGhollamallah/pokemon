@@ -11,10 +11,10 @@ class Musique:
         pygame.mixer.init()
         self.sounds = {
             'Opening': pygame.mixer.Sound("Opening.wav"),
-            'Battle': pygame.mixer.Sound("Battle.mp3"),
-            'victoryT': pygame.mixer.Sound("victoryT.mp3"),
+            'Battle': pygame.mixer.Sound("Battle.wav"),
+            'victoryT': pygame.mixer.Sound("victoryT.wav"),
             # 'defeat': pygame.mixer.Sound("defeat.mp3"),
-            'City': pygame.mixer.Sound("City.mp3"),
+            'City': pygame.mixer.Sound("City.wav"),
             # 'out_of_city': pygame.mixer.Sound("out_of_city.mp3")
         }
 
@@ -46,7 +46,7 @@ class Musique:
 
 # Exemple d'utilisation :
 musique_instance = Musique()
-musique_instance.ville()
+musique_instance.accueil()
 
 # Boucle principale du jeu
 while True:
