@@ -1,0 +1,25 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "automapping.whileDrawing": true,
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/ayman/Desktop/pokemon/assets/decors/tilesets",
+    "last.imagePath": "C:/Users/ayman/Desktop/pokemon/assets/decors/tilesets",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFilter": "Tous les Fichiers (*)",
+    "tileset.lastUsedFormat": "tsx"
+}
