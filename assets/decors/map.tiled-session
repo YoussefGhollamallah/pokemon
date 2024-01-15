@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map0.tmx",
+    "automapping.whileDrawing": true,
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "map0.tmx": {
+            "scale": 0.938125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.2131912058628,
+                "y": 320.31978680879416
+            }
+        },
+        "tilesets/pokemon_tileset_from_public_tiles_32x32_by_chaoticcherrycake_dab2byf.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/tileset_epicadv_nodoor.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/ayman/Desktop/pokemon/assets/decors/tilesets",
+    "last.imagePath": "C:/Users/ayman/Desktop/pokemon/assets/decors/tilesets",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "map0.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "map0.tmx"
+    ],
+    "tileset.lastUsedFilter": "Tous les Fichiers (*)",
+    "tileset.lastUsedFormat": "tsx"
+}
