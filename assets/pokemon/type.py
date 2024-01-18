@@ -78,7 +78,7 @@ class Ice(Pokemon):
 
 class Fighting(Pokemon):
         def __init__(self, nom, tipo, hp, attaque, defense, vitesse):
-                super().__init__(nom, tipe,hp, attaque, defense, vitesse)
+                super().__init__(nom, tipo,hp, attaque, defense, vitesse)
                 self.avantage=['Normal', 'Ice', 'Rock', 'Dark', 'Steel']
                 self.desavantage=['Poison', 'Flying', 'Psychic', 'Bug', 'Spectre', 'Fairy']
                 self.egal=['Fire', 'Water', 'Grass', 'Electric', 'Fighting', 'Ground', 'Dragon']
