@@ -16,7 +16,7 @@ class Pokemon:
 
         def calculavantage(self, opps):
                 if opps.type.__name__ in self.avantage:
-                        return 1.75
+                        return 2
                 
                 elif opps.type.__name__  in self.desavantage:
                         return 0.5
