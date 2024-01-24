@@ -3,6 +3,7 @@ import sys
 import os
 import random
 from screen import Screen
+from test import *
 
 class Menu(Screen):
     def __init__(self, background_images_directory):
@@ -60,7 +61,7 @@ class Menu(Screen):
                             # Ajoutez le code pour lancer le jeu ici
                         elif selected_action == "Pokedex":
                             print("Ouvrir le Pokedex")
-                            # Ajoutez le code pour ouvrir le Pokedex ici
+                            app.run()
                         elif selected_action == "Ajouter un Pokemon":
                             print("Ajouter un Pokemon")
                             # Ajoutez le code pour ouvrir le Pokedex ici
